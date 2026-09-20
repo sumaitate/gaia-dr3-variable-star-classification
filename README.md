@@ -4,9 +4,37 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Machine-learning classification of variable stars using features extracted from Gaia DR3 photometric light curves.
+**Research Question**: Can classical machine-learning models accurately classify common variable-star types using features extracted from Gaia DR3 photometric light curves, and which features contribute most strongly to the classification?
 
-## Project Organization
+##  Data Sources
+**Gaia DR3 Archive**
+	https://gea.esac.esa.int/archive/
+	Gaia DR3 provides variable-star classifications and photometric time-series data that can be used for this project.
+
+**Secondary Dataset**:
+**ZTF_40k Variable-Star Dataset**
+	https://huggingface.co/datasets/StarEmbed/ZTF_40k
+	This dataset contains labeled ZTF variable-star light curves and can be used later for comparison, additional testing, or extension of the Gaia project.
+
+## Reference Code
+Gaia DR3 Time-Domain Example
+	https://github.com/anilipour/Gaia-DR3-Time-Domain-SETI
+	Useful for understanding how to access and analyze Gaia DR3 time-domain/light-curve data.
+
+StarEmbed
+	https://github.com/skai-institute/StarEmbed
+	Useful reference for machine-learning analysis of astronomical light curves.
+	
+Variable-Star Classifier
+	https://github.com/Vector-Pi/varstar-classifier
+	A useful beginner-friendly example of feature extraction and variable-star classification.
+	
+SCoPe
+	https://github.com/scope-ml/scope-ml
+	A more advanced reference for machine-learning classification of ZTF astronomical sources.
+
+
+## Working Repository Organization
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
