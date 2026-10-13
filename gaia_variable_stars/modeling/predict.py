@@ -1,30 +1,36 @@
-from pathlib import Path
+import argparse
 
-from loguru import logger
-from tqdm import tqdm
-import typer
+import joblib
+import pandas as pd
 
-from gaia_variable_stars.config import MODELS_DIR, PROCESSED_DATA_DIR
-
-app = typer.Typer()
+from gaia_variable_stars.config import FEATURE_FILE, FEATURES, MODEL_FILE, PRED_FILE
 
 
-@app.command()
-def main(
-    # ---- REPLACE DEFAULT PATHS AS APPROPRIATE ----
-    features_path: Path = PROCESSED_DATA_DIR / "test_features.csv",
-    model_path: Path = MODELS_DIR / "model.pkl",
-    predictions_path: Path = PROCESSED_DATA_DIR / "test_predictions.csv",
-    # -----------------------------------------
-):
-    # ---- REPLACE THIS WITH YOUR OWN CODE ----
-    logger.info("Performing inference for model...")
-    for i in tqdm(range(10), total=10):
-        if i == 5:
-            logger.info("Something happened for iteration 5.")
-    logger.success("Inference complete.")
-    # -----------------------------------------
+def predict(feat):
+    """Predicted class and class probabilities for a feature table."""
+    model = joblib.load(MODEL_FILE)
+    X = feat[FEATURES]
+
+    out = pd.DataFrame(
+        {"source_id": feat["source_id"].to_numpy(), "pred": model.predict(X)}
+    )
+    prob = model.predict_proba(X)
+
+    for i, name in enumerate(model.classes_):
+        out[name] = prob[:, i]
+
+    return out
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input", default=str(FEATURE_FILE))
+    parser.add_argument("--output", default=str(PRED_FILE))
+    args = parser.parse_args()
+
+    out = predict(pd.read_csv(args.input))
+    out.to_csv(args.output, index=False)
 
 
 if __name__ == "__main__":
-    app()
+    main()

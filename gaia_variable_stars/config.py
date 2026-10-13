@@ -1,32 +1,52 @@
 from pathlib import Path
 
-from dotenv import load_dotenv
-from loguru import logger
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
-# Load environment variables from .env file if it exists
-load_dotenv()
+DATA_ROOT = PROJECT_ROOT / "data"
+RAW_ROOT = DATA_ROOT / "raw"
+INTERIM_ROOT = DATA_ROOT / "interim"
+PROCESSED_ROOT = DATA_ROOT / "processed"
 
-# Paths
-PROJ_ROOT = Path(__file__).resolve().parents[1]
-logger.info(f"PROJ_ROOT path is: {PROJ_ROOT}")
+MODELS_ROOT = PROJECT_ROOT / "models"
+REPORTS_ROOT = PROJECT_ROOT / "reports"
+FIGURES_ROOT = REPORTS_ROOT / "figures"
 
-DATA_DIR = PROJ_ROOT / "data"
-RAW_DATA_DIR = DATA_DIR / "raw"
-INTERIM_DATA_DIR = DATA_DIR / "interim"
-PROCESSED_DATA_DIR = DATA_DIR / "processed"
-EXTERNAL_DATA_DIR = DATA_DIR / "external"
+SOURCE_FILE = RAW_ROOT / "gaia_sources.csv"
+BATCH_ROOT = RAW_ROOT / "photometry_batches"
+PHOTOMETRY_FILE = RAW_ROOT / "gaia_photometry.csv"
 
-MODELS_DIR = PROJ_ROOT / "models"
+LABELED_FILE = INTERIM_ROOT / "gaia_labeled.csv"
+CLEAN_FILE = INTERIM_ROOT / "gaia_clean.csv"
 
-REPORTS_DIR = PROJ_ROOT / "reports"
-FIGURES_DIR = REPORTS_DIR / "figures"
+FEATURE_FILE = PROCESSED_ROOT / "gaia_features.csv"
+MIN_POINTS = 20
 
-# If tqdm is installed, configure loguru with tqdm.write
-# https://github.com/Delgan/loguru/issues/135
-try:
-    from tqdm import tqdm
+SEED = 42
+TEST_SIZE = 0.2
+FOLDS = 5
 
-    logger.remove(0)
-    logger.add(lambda msg: tqdm.write(msg, end=""), colorize=True)
-except ModuleNotFoundError:
-    pass
+CLASSES = [
+    "RR Lyrae",
+    "Cepheid",
+    "Eclipsing Binary",
+    "Long-Period Variable",
+]
+
+FEATURES = [
+    "magnitude_mean",
+    "magnitude_std",
+    "magnitude_skew",
+    "magnitude_kurt",
+    "amplitude",
+    "log_period",
+    "power",
+    "fourier_amp",
+    "fourier_ratio",
+    "bp_rp_color",
+]
+
+MODEL_FILE = MODELS_ROOT / "model.joblib"
+CV_FILE = MODELS_ROOT / "cv.csv"
+RANK_FILE = MODELS_ROOT / "rank.csv"
+TEST_FILE = MODELS_ROOT / "test.csv"
+PRED_FILE = MODELS_ROOT / "pred.csv"
