@@ -1,73 +1,69 @@
 model,class_name,period_status,reference,compared,n_stars,recall_delta,ci_lo,ci_hi,small_cell
-RF,RR Lyrae,recovered,full,period_free,392,-0.040306122448979596,-0.06020408163265306,-0.023469387755102038,False
-RF,RR Lyrae,recovered,full,color_amp,392,-0.4535714285714286,-0.49771683673469386,-0.4061224489795918,False
-RF,RR Lyrae,recovered,full,oracle,392,0.030612244897959183,0.013775510204081633,0.04975765306122442,False
-RF,RR Lyrae,recovered,oracle,period_free,392,-0.07091836734693878,-0.09693877551020408,-0.046670918367347006,False
-RF,RR Lyrae,mismatched,full,period_free,86,0.01627906976744186,0.0,0.044186046511627906,False
-RF,RR Lyrae,mismatched,full,color_amp,86,-0.5744186046511627,-0.6767441860465117,-0.4627906976744186,False
-RF,RR Lyrae,mismatched,full,oracle,86,0.027906976744186046,0.0,0.06744186046511627,False
-RF,RR Lyrae,mismatched,oracle,period_free,86,-0.011627906976744186,-0.03488372093023256,0.0,False
-RF,RR Lyrae,ineligible,full,period_free,22,0.0,0.0,0.0,False
-RF,RR Lyrae,ineligible,full,color_amp,22,-0.03636363636363636,-0.09090909090909091,0.0,False
-RF,Cepheid,recovered,full,period_free,495,-0.052121212121212124,-0.07313131313131313,-0.0314949494949496,False
-RF,Cepheid,recovered,full,color_amp,495,-0.5878787878787879,-0.6294949494949496,-0.5436262626262627,False
-RF,Cepheid,recovered,full,oracle,495,0.0064646464646464655,-0.001212121212121212,0.015353535353535355,False
-RF,Cepheid,recovered,oracle,period_free,495,-0.05858585858585859,-0.0804040404040404,-0.03736363636363642,False
+RF,RR Lyrae,recovered,full,period_free,392,-0.04489795918367347,-0.0663265306122449,-0.027283163265306193,False
+RF,RR Lyrae,recovered,full,color_amp,392,-0.45969387755102037,-0.5058801020408163,-0.41248724489795924,False
+RF,RR Lyrae,recovered,full,oracle,392,0.03010204081632653,0.014795918367346938,0.04897959183673469,False
+RF,RR Lyrae,recovered,oracle,period_free,392,-0.075,-0.10051020408163265,-0.05102040816326531,False
+RF,RR Lyrae,mismatched,full,period_free,86,0.004651162790697674,0.0,0.013953488372093025,False
+RF,RR Lyrae,mismatched,full,color_amp,86,-0.5651162790697674,-0.6674418604651163,-0.4511627906976744,False
+RF,RR Lyrae,mismatched,full,oracle,86,-0.0023255813953488354,-0.01395348837209302,0.00930232558139535,False
+RF,RR Lyrae,mismatched,oracle,period_free,86,0.00697674418604651,0.0,0.016279069767441857,False
+RF,Cepheid,recovered,full,period_free,495,-0.05898989898989898,-0.08161616161616163,-0.03757575757575758,False
+RF,Cepheid,recovered,full,color_amp,495,-0.5991919191919192,-0.6416161616161616,-0.554939393939394,False
+RF,Cepheid,recovered,full,oracle,495,0.0016161616161616164,-0.0060606060606060615,0.010101010101010102,False
+RF,Cepheid,recovered,oracle,period_free,495,-0.06060606060606061,-0.08425252525252525,-0.03857575757575763,False
 RF,Cepheid,mismatched,full,period_free,5,0.0,0.0,0.0,True
-RF,Cepheid,mismatched,full,color_amp,5,-0.6,-1.0,-0.2,True
+RF,Cepheid,mismatched,full,color_amp,5,-0.5599999999999999,-0.96,-0.16,True
 RF,Cepheid,mismatched,full,oracle,5,0.0,0.0,0.0,True
 RF,Cepheid,mismatched,oracle,period_free,5,0.0,0.0,0.0,True
-RF,Eclipsing Binary,recovered,full,period_free,12,0.049999999999999996,0.0,0.15,False
-RF,Eclipsing Binary,recovered,full,color_amp,12,-0.25,-0.5833333333333334,0.08333333333333333,False
-RF,Eclipsing Binary,recovered,full,oracle,12,-0.35000000000000003,-0.6,-0.13333333333333333,False
-RF,Eclipsing Binary,recovered,oracle,period_free,12,0.39999999999999997,0.17458333333333337,0.65,False
-RF,Eclipsing Binary,mismatched,full,period_free,488,-0.024999999999999998,-0.03934426229508197,-0.011885245901639344,False
-RF,Eclipsing Binary,mismatched,full,color_amp,488,-0.37459016393442623,-0.4166086065573771,-0.3313422131147542,False
-RF,Eclipsing Binary,mismatched,full,oracle,488,0.021311475409836068,0.009016393442622951,0.03401639344262295,False
-RF,Eclipsing Binary,mismatched,oracle,period_free,488,-0.04631147540983606,-0.0651639344262295,-0.029702868852459072,False
-RF,Long-Period Variable,recovered,full,period_free,269,-0.0550185873605948,-0.08104089219330855,-0.03197026022304832,False
-RF,Long-Period Variable,recovered,full,color_amp,269,-0.1724907063197026,-0.2178438661710037,-0.12972118959107815,False
+RF,Eclipsing Binary,recovered,full,period_free,12,0.03333333333333333,0.0,0.10000000000000002,False
+RF,Eclipsing Binary,recovered,full,color_amp,12,-0.3666666666666667,-0.6666666666666666,-0.06666666666666667,False
+RF,Eclipsing Binary,recovered,full,oracle,12,-0.38333333333333336,-0.6333333333333334,-0.15,False
+RF,Eclipsing Binary,recovered,oracle,period_free,12,0.4166666666666667,0.16666666666666666,0.6666666666666666,False
+RF,Eclipsing Binary,mismatched,full,period_free,488,-0.029098360655737707,-0.045081967213114756,-0.015163934426229507,False
+RF,Eclipsing Binary,mismatched,full,color_amp,488,-0.3622950819672131,-0.40513319672131154,-0.31822745901639343,False
+RF,Eclipsing Binary,mismatched,full,oracle,488,0.019262295081967213,0.007377049180327868,0.03237704918032787,False
+RF,Eclipsing Binary,mismatched,oracle,period_free,488,-0.04836065573770492,-0.0680327868852459,-0.031967213114754096,False
+RF,Long-Period Variable,recovered,full,period_free,269,-0.05576208178438661,-0.08327137546468401,-0.03122676579925651,False
+RF,Long-Period Variable,recovered,full,color_amp,269,-0.18066914498141262,-0.22527881040892195,-0.137546468401487,False
 RF,Long-Period Variable,recovered,full,oracle,269,0.0,0.0,0.0,False
-RF,Long-Period Variable,recovered,oracle,period_free,269,-0.0550185873605948,-0.08104089219330855,-0.03197026022304832,False
-RF,Long-Period Variable,mismatched,full,period_free,132,-0.03181818181818182,-0.06666666666666667,-0.003030303030303028,False
-RF,Long-Period Variable,mismatched,full,color_amp,132,-0.16818181818181818,-0.23484848484848486,-0.10454545454545455,False
+RF,Long-Period Variable,recovered,oracle,period_free,269,-0.05576208178438661,-0.08327137546468401,-0.03122676579925651,False
+RF,Long-Period Variable,mismatched,full,period_free,132,-0.0393939393939394,-0.07958333333333334,-0.006060606060606061,False
+RF,Long-Period Variable,mismatched,full,color_amp,132,-0.17272727272727273,-0.23867424242424243,-0.10829545454545475,False
 RF,Long-Period Variable,mismatched,full,oracle,132,0.007575757575757576,0.0,0.022727272727272728,False
-RF,Long-Period Variable,mismatched,oracle,period_free,132,-0.0393939393939394,-0.07272727272727272,-0.013636363636363636,False
-RF,Long-Period Variable,ineligible,full,period_free,99,-0.022222222222222223,-0.05358585858585859,0.0,False
-RF,Long-Period Variable,ineligible,full,color_amp,99,-0.21616161616161614,-0.298989898989899,-0.13631313131313158,False
-HGB,RR Lyrae,recovered,full,period_free,392,-0.03877551020408163,-0.06173469387755102,-0.01836734693877551,False
-HGB,RR Lyrae,recovered,full,color_amp,392,-0.4877551020408163,-0.5311224489795918,-0.4423469387755101,False
-HGB,RR Lyrae,recovered,full,oracle,392,0.02857142857142857,0.014795918367346938,0.044387755102040814,False
-HGB,RR Lyrae,recovered,oracle,period_free,392,-0.0673469387755102,-0.09183673469387756,-0.044387755102040814,False
+RF,Long-Period Variable,mismatched,oracle,period_free,132,-0.046969696969696974,-0.08484848484848484,-0.01818181818181818,False
+RF,Long-Period Variable,ineligible,full,period_free,99,-0.020202020202020204,-0.050505050505050504,0.0,False
+RF,Long-Period Variable,ineligible,full,color_amp,99,-0.21414141414141413,-0.29494949494949496,-0.13737373737373737,False
+HGB,RR Lyrae,recovered,full,period_free,392,-0.04642857142857143,-0.06965561224489795,-0.02524234693877558,False
+HGB,RR Lyrae,recovered,full,color_amp,392,-0.47959183673469385,-0.5247576530612245,-0.43469387755102035,False
+HGB,RR Lyrae,recovered,full,oracle,392,0.024489795918367346,0.011734693877551019,0.03877551020408163,False
+HGB,RR Lyrae,recovered,oracle,period_free,392,-0.0709183673469388,-0.09669642857142857,-0.04769132653061232,False
 HGB,RR Lyrae,mismatched,full,period_free,86,0.0,0.0,0.0,False
-HGB,RR Lyrae,mismatched,full,color_amp,86,-0.572093023255814,-0.6744186046511628,-0.4604651162790697,False
-HGB,RR Lyrae,mismatched,full,oracle,86,-0.0046511627906976735,-0.011627906976744184,0.0,False
-HGB,RR Lyrae,mismatched,oracle,period_free,86,0.0046511627906976735,0.0,0.011627906976744184,False
-HGB,RR Lyrae,ineligible,full,period_free,22,0.0,0.0,0.0,False
-HGB,RR Lyrae,ineligible,full,color_amp,22,0.0,0.0,0.0,False
-HGB,Cepheid,recovered,full,period_free,495,-0.0501010101010101,-0.07111111111111111,-0.029494949494949498,False
-HGB,Cepheid,recovered,full,color_amp,495,-0.6076767676767677,-0.6472727272727272,-0.5680808080808081,False
-HGB,Cepheid,recovered,full,oracle,495,0.00404040404040404,-0.00040404040404040453,0.008888888888888889,False
-HGB,Cepheid,recovered,oracle,period_free,495,-0.05414141414141415,-0.07495959595959596,-0.03372727272727278,False
-HGB,Cepheid,mismatched,full,period_free,5,-0.04,-0.12000000000000002,0.0,True
-HGB,Cepheid,mismatched,full,color_amp,5,-0.64,-0.96,-0.31999999999999995,True
-HGB,Cepheid,mismatched,full,oracle,5,-0.04,-0.12000000000000002,0.0,True
+HGB,RR Lyrae,mismatched,full,color_amp,86,-0.5395348837209302,-0.6441860465116279,-0.4302325581395348,False
+HGB,RR Lyrae,mismatched,full,oracle,86,1.290957005378089e-18,-0.009302325581395347,0.011627906976744186,False
+HGB,RR Lyrae,mismatched,oracle,period_free,86,-1.290957005378089e-18,-0.012848837209302324,0.009302325581395347,False
+HGB,Cepheid,recovered,full,period_free,495,-0.048484848484848485,-0.06828282828282828,-0.02868686868686868,False
+HGB,Cepheid,recovered,full,color_amp,495,-0.6113131313131314,-0.6513131313131313,-0.5704848484848486,False
+HGB,Cepheid,recovered,full,oracle,495,0.004040404040404041,-0.0028282828282828283,0.011717171717171718,False
+HGB,Cepheid,recovered,oracle,period_free,495,-0.052525252525252523,-0.07253535353535354,-0.03272727272727272,False
+HGB,Cepheid,mismatched,full,period_free,5,0.0,0.0,0.0,True
+HGB,Cepheid,mismatched,full,color_amp,5,-0.31999999999999995,-0.6799999999999999,-0.039999999999999994,True
+HGB,Cepheid,mismatched,full,oracle,5,0.0,0.0,0.0,True
 HGB,Cepheid,mismatched,oracle,period_free,5,0.0,0.0,0.0,True
-HGB,Eclipsing Binary,recovered,full,period_free,12,0.016666666666666666,0.0,0.05000000000000001,False
-HGB,Eclipsing Binary,recovered,full,color_amp,12,-0.18333333333333335,-0.5,0.08333333333333333,False
-HGB,Eclipsing Binary,recovered,full,oracle,12,-0.25,-0.48333333333333334,-0.04999999999999999,False
-HGB,Eclipsing Binary,recovered,oracle,period_free,12,0.26666666666666666,0.06666666666666667,0.49208333333333104,False
-HGB,Eclipsing Binary,mismatched,full,period_free,488,-0.022950819672131147,-0.0389344262295082,-0.00860655737704918,False
-HGB,Eclipsing Binary,mismatched,full,color_amp,488,-0.4163934426229508,-0.45737704918032784,-0.3756045081967213,False
-HGB,Eclipsing Binary,mismatched,full,oracle,488,0.019262295081967213,0.00860655737704918,0.03155737704918033,False
-HGB,Eclipsing Binary,mismatched,oracle,period_free,488,-0.04221311475409836,-0.05983606557377049,-0.02663934426229508,False
-HGB,Long-Period Variable,recovered,full,period_free,269,-0.026765799256505574,-0.047583643122676586,-0.007434944237918215,False
-HGB,Long-Period Variable,recovered,full,color_amp,269,-0.179182156133829,-0.22750929368029738,-0.13457249070631971,False
-HGB,Long-Period Variable,recovered,full,oracle,269,-0.0029739776951672866,-0.015613382899628254,0.008178438661710037,False
-HGB,Long-Period Variable,recovered,oracle,period_free,269,-0.02379182156133829,-0.04684014869888476,-0.0014869888475836429,False
-HGB,Long-Period Variable,mismatched,full,period_free,132,-0.04242424242424242,-0.08787878787878788,-0.00606060606060606,False
-HGB,Long-Period Variable,mismatched,full,color_amp,132,-0.23333333333333334,-0.30606060606060603,-0.16666666666666666,False
-HGB,Long-Period Variable,mismatched,full,oracle,132,0.010606060606060605,0.0,0.028787878787878786,False
-HGB,Long-Period Variable,mismatched,oracle,period_free,132,-0.05303030303030303,-0.09848484848484848,-0.022727272727272728,False
-HGB,Long-Period Variable,ineligible,full,period_free,99,-0.0020202020202020198,-0.03232323232323232,0.02828282828282828,False
-HGB,Long-Period Variable,ineligible,full,color_amp,99,-0.26262626262626265,-0.35353535353535354,-0.176717171717172,False
+HGB,Eclipsing Binary,recovered,full,period_free,12,0.049999999999999996,0.0,0.15,False
+HGB,Eclipsing Binary,recovered,full,color_amp,12,-0.21666666666666667,-0.5166666666666667,0.08333333333333333,False
+HGB,Eclipsing Binary,recovered,full,oracle,12,-0.35000000000000003,-0.6166666666666667,-0.10000000000000002,False
+HGB,Eclipsing Binary,recovered,oracle,period_free,12,0.4000000000000001,0.16666666666666666,0.6333333333333334,False
+HGB,Eclipsing Binary,mismatched,full,period_free,488,-0.028278688524590166,-0.04467213114754098,-0.013114754098360656,False
+HGB,Eclipsing Binary,mismatched,full,color_amp,488,-0.42049180327868857,-0.4633299180327869,-0.380327868852459,False
+HGB,Eclipsing Binary,mismatched,full,oracle,488,0.017213114754098358,0.006967213114754099,0.029723360655737645,False
+HGB,Eclipsing Binary,mismatched,oracle,period_free,488,-0.04549180327868852,-0.06434426229508197,-0.028688524590163935,False
+HGB,Long-Period Variable,recovered,full,period_free,269,-0.03345724907063197,-0.05466542750929368,-0.01486988847583643,False
+HGB,Long-Period Variable,recovered,full,color_amp,269,-0.19182156133828998,-0.23866171003717473,-0.1483085501858737,False
+HGB,Long-Period Variable,recovered,full,oracle,269,0.0029739776951672866,-0.0044609665427509295,0.012639405204460967,False
+HGB,Long-Period Variable,recovered,oracle,period_free,269,-0.036431226765799254,-0.05799256505576208,-0.01635687732342007,False
+HGB,Long-Period Variable,mismatched,full,period_free,132,-0.043939393939393945,-0.08787878787878788,-0.00909090909090909,False
+HGB,Long-Period Variable,mismatched,full,color_amp,132,-0.21515151515151515,-0.28181818181818186,-0.15303030303030302,False
+HGB,Long-Period Variable,mismatched,full,oracle,132,0.010606060606060605,0.0,0.029583333333333125,False
+HGB,Long-Period Variable,mismatched,oracle,period_free,132,-0.05454545454545455,-0.09625,-0.022727272727272728,False
+HGB,Long-Period Variable,ineligible,full,period_free,99,0.0,-0.024242424242424246,0.02828282828282828,False
+HGB,Long-Period Variable,ineligible,full,color_amp,99,-0.23838383838383836,-0.3323737373737374,-0.15151515151515152,False

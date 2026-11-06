@@ -52,7 +52,7 @@ source_id,class_name,field,predicted,model,feature_set
 4652110392402847744,Cepheid,LMC,Cepheid,RF,full
 4652117607948888832,Cepheid,LMC,Cepheid,RF,full
 4652126404043513472,Cepheid,LMC,Cepheid,RF,full
-4652129943057186048,Cepheid,LMC,RR Lyrae,RF,full
+4652129943057186048,Cepheid,LMC,Cepheid,RF,full
 4652133821544778368,Cepheid,LMC,Cepheid,RF,full
 4652137227362988032,Cepheid,LMC,Cepheid,RF,full
 4652143515197580800,Cepheid,LMC,Cepheid,RF,full
@@ -212,7 +212,6 @@ source_id,class_name,field,predicted,model,feature_set
 4658063045307485696,Long-Period Variable,LMC,Long-Period Variable,RF,full
 4658063182708329728,RR Lyrae,LMC,RR Lyrae,RF,full
 4658063247099023232,Long-Period Variable,LMC,Long-Period Variable,RF,full
-4658063315956638208,RR Lyrae,LMC,RR Lyrae,RF,full
 4658064282259121152,Long-Period Variable,LMC,Eclipsing Binary,RF,full
 4658064312248092160,Long-Period Variable,LMC,Long-Period Variable,RF,full
 4658064381117937152,Long-Period Variable,LMC,Long-Period Variable,RF,full
@@ -314,7 +313,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658095270440247168,Long-Period Variable,LMC,Long-Period Variable,RF,full
 4658096477345145600,Long-Period Variable,LMC,Long-Period Variable,RF,full
 4658096477345200512,Long-Period Variable,LMC,Long-Period Variable,RF,full
-4658097542496743168,Long-Period Variable,LMC,Cepheid,RF,full
+4658097542496743168,Long-Period Variable,LMC,Long-Period Variable,RF,full
 4658097989173144960,Long-Period Variable,LMC,Long-Period Variable,RF,full
 4658098397139023744,Long-Period Variable,LMC,Long-Period Variable,RF,full
 4658099088591319552,Long-Period Variable,LMC,Long-Period Variable,RF,full
@@ -333,7 +332,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658105651397119744,Cepheid,LMC,Cepheid,RF,full
 4658107846115667328,Long-Period Variable,LMC,Long-Period Variable,RF,full
 4658108194017345024,Long-Period Variable,LMC,Long-Period Variable,RF,full
-4658108571974294272,Long-Period Variable,LMC,Cepheid,RF,full
+4658108571974294272,Long-Period Variable,LMC,Long-Period Variable,RF,full
 4658108743681260032,Long-Period Variable,LMC,Long-Period Variable,RF,full
 4658109018650729856,Cepheid,LMC,Cepheid,RF,full
 4658110461761283968,Long-Period Variable,LMC,Long-Period Variable,RF,full
@@ -452,8 +451,8 @@ source_id,class_name,field,predicted,model,feature_set
 4664069093142911744,Cepheid,LMC,Cepheid,RF,full
 4664084692464690048,Cepheid,LMC,Cepheid,RF,full
 4664208898612419200,Cepheid,LMC,RR Lyrae,RF,full
-4664225498668621440,Cepheid,LMC,RR Lyrae,RF,full
-4664612492399408128,Cepheid,LMC,Cepheid,RF,full
+4664225498668621440,Cepheid,LMC,Cepheid,RF,full
+4664612492399408128,Cepheid,LMC,Long-Period Variable,RF,full
 4664797687089142784,Cepheid,LMC,Cepheid,RF,full
 4685627904833942400,Cepheid,SMC,Cepheid,RF,full
 4685628969985539072,Cepheid,SMC,Cepheid,RF,full
@@ -466,7 +465,7 @@ source_id,class_name,field,predicted,model,feature_set
 4685676317708669952,Cepheid,SMC,Cepheid,RF,full
 4755822032811781248,Cepheid,LMC,Cepheid,RF,full
 4755854021729134464,Cepheid,LMC,Cepheid,RF,full
-4755915491302603136,Cepheid,LMC,RR Lyrae,RF,full
+4755915491302603136,Cepheid,LMC,Cepheid,RF,full
 5264787786368795136,Cepheid,LMC,Cepheid,RF,full
 5265220955291029632,Cepheid,LMC,Cepheid,RF,full
 5265937836871983744,Cepheid,LMC,Cepheid,RF,full
@@ -507,7 +506,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278399156208794880,Long-Period Variable,LMC,Long-Period Variable,RF,full
 5278419183635501312,Eclipsing Binary,LMC,Eclipsing Binary,RF,full
 5278424371968671488,Eclipsing Binary,LMC,Eclipsing Binary,RF,full
-5278432004118558976,Cepheid,LMC,RR Lyrae,RF,full
+5278432004118558976,Cepheid,LMC,Cepheid,RF,full
 5278434752897612672,Long-Period Variable,LMC,Long-Period Variable,RF,full
 5278436432238659712,Long-Period Variable,LMC,Long-Period Variable,RF,full
 5278438807346238720,Long-Period Variable,LMC,Long-Period Variable,RF,full
@@ -618,7 +617,7 @@ source_id,class_name,field,predicted,model,feature_set
 4652080258907780608,Cepheid,LMC,Cepheid,RF,intrinsic
 4652084656954619008,Cepheid,LMC,Cepheid,RF,intrinsic
 4652085344149251840,Cepheid,LMC,Cepheid,RF,intrinsic
-4652091284042106752,Cepheid,LMC,Eclipsing Binary,RF,intrinsic
+4652091284042106752,Cepheid,LMC,RR Lyrae,RF,intrinsic
 4652100290638188416,Cepheid,LMC,Cepheid,RF,intrinsic
 4652108468257122816,Cepheid,LMC,Cepheid,RF,intrinsic
 4652110392402847744,Cepheid,LMC,Cepheid,RF,intrinsic
@@ -643,7 +642,7 @@ source_id,class_name,field,predicted,model,feature_set
 4654733998916127616,Cepheid,LMC,Cepheid,RF,intrinsic
 4654750560309717504,Cepheid,LMC,Cepheid,RF,intrinsic
 4654751110065462016,Cepheid,LMC,Cepheid,RF,intrinsic
-4654751659821276672,Cepheid,LMC,Cepheid,RF,intrinsic
+4654751659821276672,Cepheid,LMC,Eclipsing Binary,RF,intrinsic
 4654760558985229696,Cepheid,LMC,Cepheid,RF,intrinsic
 4654761551109470208,Cepheid,LMC,Cepheid,RF,intrinsic
 4654782102540670720,Cepheid,LMC,RR Lyrae,RF,intrinsic
@@ -784,7 +783,6 @@ source_id,class_name,field,predicted,model,feature_set
 4658063045307485696,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
 4658063182708329728,RR Lyrae,LMC,RR Lyrae,RF,intrinsic
 4658063247099023232,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
-4658063315956638208,RR Lyrae,LMC,RR Lyrae,RF,intrinsic
 4658064282259121152,Long-Period Variable,LMC,Eclipsing Binary,RF,intrinsic
 4658064312248092160,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
 4658064381117937152,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
@@ -844,7 +842,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658081393415226624,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
 4658082046249896448,Cepheid,LMC,Cepheid,RF,intrinsic
 4658082080609616768,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
-4658082763450092800,Cepheid,LMC,Long-Period Variable,RF,intrinsic
+4658082763450092800,Cepheid,LMC,Cepheid,RF,intrinsic
 4658082797822247040,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
 4658082969618126464,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
 4658083386242050816,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
@@ -945,7 +943,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658950385509224960,Cepheid,LMC,Cepheid,RF,intrinsic
 4658956123585603072,Cepheid,LMC,Cepheid,RF,intrinsic
 4658970245439073664,Cepheid,LMC,Cepheid,RF,intrinsic
-4658980003576474496,Cepheid,LMC,Cepheid,RF,intrinsic
+4658980003576474496,Cepheid,LMC,Eclipsing Binary,RF,intrinsic
 4658980037936174592,Cepheid,LMC,Cepheid,RF,intrinsic
 4658984229824339072,Cepheid,LMC,Cepheid,RF,intrinsic
 4658998386036208640,Cepheid,LMC,Cepheid,RF,intrinsic
@@ -1011,7 +1009,7 @@ source_id,class_name,field,predicted,model,feature_set
 4663654955227614592,Cepheid,LMC,Cepheid,RF,intrinsic
 4663661724096300672,Cepheid,LMC,Cepheid,RF,intrinsic
 4663666736302057472,Cepheid,LMC,Cepheid,RF,intrinsic
-4663688593412552192,Cepheid,LMC,Cepheid,RF,intrinsic
+4663688593412552192,Cepheid,LMC,RR Lyrae,RF,intrinsic
 4663697183347354624,Cepheid,LMC,Cepheid,RF,intrinsic
 4663704845569323776,Cepheid,LMC,Cepheid,RF,intrinsic
 4663729481502388224,Cepheid,LMC,Cepheid,RF,intrinsic
@@ -1024,16 +1022,16 @@ source_id,class_name,field,predicted,model,feature_set
 4664069093142911744,Cepheid,LMC,Cepheid,RF,intrinsic
 4664084692464690048,Cepheid,LMC,Cepheid,RF,intrinsic
 4664208898612419200,Cepheid,LMC,RR Lyrae,RF,intrinsic
-4664225498668621440,Cepheid,LMC,RR Lyrae,RF,intrinsic
+4664225498668621440,Cepheid,LMC,Cepheid,RF,intrinsic
 4664612492399408128,Cepheid,LMC,Cepheid,RF,intrinsic
 4664797687089142784,Cepheid,LMC,Cepheid,RF,intrinsic
 4685627904833942400,Cepheid,SMC,Cepheid,RF,intrinsic
 4685628969985539072,Cepheid,SMC,Cepheid,RF,intrinsic
 4685632062362368384,Cepheid,SMC,Cepheid,RF,intrinsic
 4685635223457862400,Cepheid,SMC,RR Lyrae,RF,intrinsic
-4685636151170775552,Cepheid,SMC,Cepheid,RF,intrinsic
+4685636151170775552,Cepheid,SMC,RR Lyrae,RF,intrinsic
 4685636868411707008,Cepheid,SMC,RR Lyrae,RF,intrinsic
-4685654121316332928,Cepheid,SMC,RR Lyrae,RF,intrinsic
+4685654121316332928,Cepheid,SMC,Cepheid,RF,intrinsic
 4685674427923307904,Cepheid,SMC,Cepheid,RF,intrinsic
 4685676317708669952,Cepheid,SMC,Cepheid,RF,intrinsic
 4755822032811781248,Cepheid,LMC,Cepheid,RF,intrinsic
@@ -1107,7 +1105,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278559684904517632,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
 5278567656363842816,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
 5278570886173334656,Eclipsing Binary,LMC,Eclipsing Binary,RF,intrinsic
-5278571053678840576,Eclipsing Binary,LMC,RR Lyrae,RF,intrinsic
+5278571053678840576,Eclipsing Binary,LMC,Eclipsing Binary,RF,intrinsic
 5278581121081056640,Cepheid,LMC,RR Lyrae,RF,intrinsic
 5278587546352718464,Eclipsing Binary,LMC,Eclipsing Binary,RF,intrinsic
 5278590505590816384,Long-Period Variable,LMC,Long-Period Variable,RF,intrinsic
@@ -1181,7 +1179,7 @@ source_id,class_name,field,predicted,model,feature_set
 4652058062507896320,Cepheid,LMC,Cepheid,RF,period_free
 4652061051806890624,Cepheid,LMC,Cepheid,RF,period_free
 4652062563635377408,Cepheid,LMC,Cepheid,RF,period_free
-4652063353909236992,Cepheid,LMC,Long-Period Variable,RF,period_free
+4652063353909236992,Cepheid,LMC,Cepheid,RF,period_free
 4652066167152654080,Cepheid,LMC,Cepheid,RF,period_free
 4652069229425900160,Cepheid,LMC,Cepheid,RF,period_free
 4652069779181681408,Cepheid,LMC,Cepheid,RF,period_free
@@ -1190,7 +1188,7 @@ source_id,class_name,field,predicted,model,feature_set
 4652080258907780608,Cepheid,LMC,Cepheid,RF,period_free
 4652084656954619008,Cepheid,LMC,Cepheid,RF,period_free
 4652085344149251840,Cepheid,LMC,Cepheid,RF,period_free
-4652091284042106752,Cepheid,LMC,Eclipsing Binary,RF,period_free
+4652091284042106752,Cepheid,LMC,RR Lyrae,RF,period_free
 4652100290638188416,Cepheid,LMC,Cepheid,RF,period_free
 4652108468257122816,Cepheid,LMC,Cepheid,RF,period_free
 4652110392402847744,Cepheid,LMC,Cepheid,RF,period_free
@@ -1221,7 +1219,7 @@ source_id,class_name,field,predicted,model,feature_set
 4654782102540670720,Cepheid,LMC,Cepheid,RF,period_free
 4654816084323304192,Cepheid,LMC,Cepheid,RF,period_free
 4654835806814404864,Cepheid,LMC,Eclipsing Binary,RF,period_free
-4654901635762714368,Cepheid,LMC,Cepheid,RF,period_free
+4654901635762714368,Cepheid,LMC,RR Lyrae,RF,period_free
 4654903701654446336,Cepheid,LMC,Cepheid,RF,period_free
 4654919056153161984,Cepheid,LMC,Cepheid,RF,period_free
 4654948781633572736,Cepheid,LMC,Cepheid,RF,period_free
@@ -1289,18 +1287,18 @@ source_id,class_name,field,predicted,model,feature_set
 4657265379653514624,Cepheid,LMC,Cepheid,RF,period_free
 4657265624496124288,Cepheid,LMC,Cepheid,RF,period_free
 4657273561561225088,Cepheid,LMC,RR Lyrae,RF,period_free
-4657275004705729024,Cepheid,LMC,Cepheid,RF,period_free
+4657275004705729024,Cepheid,LMC,RR Lyrae,RF,period_free
 4657319053826700800,Cepheid,LMC,Cepheid,RF,period_free
 4657342899486146432,Cepheid,LMC,RR Lyrae,RF,period_free
 4657354994114418048,Cepheid,LMC,Cepheid,RF,period_free
-4657360040692826112,Cepheid,LMC,Cepheid,RF,period_free
+4657360040692826112,Cepheid,LMC,Eclipsing Binary,RF,period_free
 4657378560582522880,Cepheid,LMC,Cepheid,RF,period_free
 4657403544430423040,Cepheid,LMC,Cepheid,RF,period_free
 4657407598879467136,Cepheid,LMC,Cepheid,RF,period_free
 4658033010722107648,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658033392846541312,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658033805163531520,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
-4658034488150649344,Long-Period Variable,LMC,Cepheid,RF,period_free
+4658034488150649344,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658034767235597312,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658035007754394368,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658035351309430272,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
@@ -1313,12 +1311,12 @@ source_id,class_name,field,predicted,model,feature_set
 4658042532538985856,RR Lyrae,LMC,RR Lyrae,RF,period_free
 4658042803222793216,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658043941288360064,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
-4658044349238600064,Long-Period Variable,LMC,Cepheid,RF,period_free
+4658044349238600064,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658045208262570880,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658046002872198528,Cepheid,LMC,Cepheid,RF,period_free
 4658046170480693120,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658047445939238400,Cepheid,LMC,Cepheid,RF,period_free
-4658047617779433728,Long-Period Variable,LMC,Cepheid,RF,period_free
+4658047617779433728,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658048442372327552,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658048717291383424,Cepheid,LMC,Cepheid,RF,period_free
 4658048747285623040,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
@@ -1328,13 +1326,13 @@ source_id,class_name,field,predicted,model,feature_set
 4658049713723390208,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658050675799433600,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658050710159138432,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
-4658052428146246528,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
+4658052428146246528,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658052531225373568,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658052565546103040,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658052943542064896,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658053012261709568,Cepheid,LMC,Cepheid,RF,period_free
 4658054691520447744,Cepheid,LMC,Cepheid,RF,period_free
-4658056207716354944,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
+4658056207716354944,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658056688752658688,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658056894911529088,Cepheid,LMC,Cepheid,RF,period_free
 4658058338020060800,Cepheid,LMC,Cepheid,RF,period_free
@@ -1347,7 +1345,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658060330887520512,Cepheid,LMC,Cepheid,RF,period_free
 4658060773328106112,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658061013846897792,Cepheid,LMC,Cepheid,RF,period_free
-4658061082566126080,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
+4658061082566126080,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658061151152087808,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658061670918138496,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658061803982773760,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
@@ -1356,30 +1354,29 @@ source_id,class_name,field,predicted,model,feature_set
 4658063045307485696,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658063182708329728,RR Lyrae,LMC,RR Lyrae,RF,period_free
 4658063247099023232,Long-Period Variable,LMC,Cepheid,RF,period_free
-4658063315956638208,RR Lyrae,LMC,RR Lyrae,RF,period_free
-4658064282259121152,Long-Period Variable,LMC,Eclipsing Binary,RF,period_free
+4658064282259121152,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658064312248092160,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658064381117937152,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658064655845431040,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658064728935534464,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658064797654900480,Cepheid,LMC,Cepheid,RF,period_free
-4658064797654914560,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
+4658064797654914560,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658064866374315264,Cepheid,LMC,Cepheid,RF,period_free
-4658065686637660160,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
+4658065686637660160,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658065789857256576,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658066202083559424,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658066408242181504,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658066584362469504,Cepheid,LMC,Cepheid,RF,period_free
 4658066614400589696,RR Lyrae,LMC,RR Lyrae,RF,period_free
 4658066687402965248,RR Lyrae,LMC,RR Lyrae,RF,period_free
-4658067164106634496,Long-Period Variable,LMC,Cepheid,RF,period_free
+4658067164106634496,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658067443355814272,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658068061796020224,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658068302350450176,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658068439789243904,RR Lyrae,LMC,RR Lyrae,RF,period_free
 4658070943680638848,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658071016733003904,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
-4658071051129972736,Long-Period Variable,LMC,Cepheid,RF,period_free
+4658071051129972736,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658071944483036032,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658073005317752064,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658073348979181440,Cepheid,LMC,Cepheid,RF,period_free
@@ -1388,7 +1385,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658074521465017344,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658075479164030336,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658075994668843776,RR Lyrae,LMC,RR Lyrae,RF,period_free
-4658076445610071040,Long-Period Variable,LMC,Cepheid,RF,period_free
+4658076445610071040,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658076720489015168,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658076922420365056,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658077270244795008,Long-Period Variable,LMC,Cepheid,RF,period_free
@@ -1413,7 +1410,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658080190823148544,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658080976722080256,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658081389038524928,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
-4658081393415226624,Long-Period Variable,LMC,Cepheid,RF,period_free
+4658081393415226624,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658082046249896448,Cepheid,LMC,Cepheid,RF,period_free
 4658082080609616768,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658082763450092800,Cepheid,LMC,Cepheid,RF,period_free
@@ -1432,7 +1429,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658086787896289920,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658087131493684864,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658087406372113920,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
-4658087715609530240,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
+4658087715609530240,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658088329800762368,RR Lyrae,LMC,RR Lyrae,RF,period_free
 4658088398519355520,RR Lyrae,LMC,RR Lyrae,RF,period_free
 4658088849480565632,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
@@ -1452,7 +1449,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658094136541007232,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 4658094828077783936,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658094931157069824,Long-Period Variable,LMC,Cepheid,RF,period_free
-4658094999876429440,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
+4658094999876429440,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658095102955472512,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658095102955551104,Long-Period Variable,LMC,Cepheid,RF,period_free
 4658095270440247168,Long-Period Variable,LMC,Cepheid,RF,period_free
@@ -1575,7 +1572,7 @@ source_id,class_name,field,predicted,model,feature_set
 4661309490826558080,Cepheid,LMC,Cepheid,RF,period_free
 4661310830856457984,Cepheid,LMC,Cepheid,RF,period_free
 4661333027224871168,Cepheid,LMC,Cepheid,RF,period_free
-4661335462482933888,Cepheid,LMC,Long-Period Variable,RF,period_free
+4661335462482933888,Cepheid,LMC,Cepheid,RF,period_free
 4661337253472402176,Cepheid,LMC,Cepheid,RF,period_free
 4661337528350226432,Cepheid,LMC,Cepheid,RF,period_free
 4661343571310849920,Cepheid,LMC,RR Lyrae,RF,period_free
@@ -1659,10 +1656,10 @@ source_id,class_name,field,predicted,model,feature_set
 5278451451729893248,Cepheid,LMC,RR Lyrae,RF,period_free
 5278453852609692544,Eclipsing Binary,LMC,Eclipsing Binary,RF,period_free
 5278462717424415488,Eclipsing Binary,LMC,Eclipsing Binary,RF,period_free
-5278469559312210304,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
+5278469559312210304,Long-Period Variable,LMC,Cepheid,RF,period_free
 5278473029645848064,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 5278474777705295616,Eclipsing Binary,LMC,Eclipsing Binary,RF,period_free
-5278475194309509760,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
+5278475194309509760,Long-Period Variable,LMC,Cepheid,RF,period_free
 5278478110584056704,Eclipsing Binary,LMC,Eclipsing Binary,RF,period_free
 5278486326864584448,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 5278499658445161600,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
@@ -1709,7 +1706,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278748143774761728,Eclipsing Binary,LMC,Eclipsing Binary,RF,period_free
 5278758318553501056,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
 5278759246266402816,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
-5278759521144305152,Long-Period Variable,LMC,Long-Period Variable,RF,period_free
+5278759521144305152,Long-Period Variable,LMC,Cepheid,RF,period_free
 5278764121045845504,Eclipsing Binary,LMC,Eclipsing Binary,RF,period_free
 5278764365858959872,Eclipsing Binary,LMC,Eclipsing Binary,RF,period_free
 5278769618604670976,Eclipsing Binary,LMC,Eclipsing Binary,RF,period_free
@@ -1790,7 +1787,7 @@ source_id,class_name,field,predicted,model,feature_set
 4654751659821276672,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4654760558985229696,Cepheid,LMC,RR Lyrae,RF,color_amp
 4654761551109470208,Cepheid,LMC,RR Lyrae,RF,color_amp
-4654782102540670720,Cepheid,LMC,RR Lyrae,RF,color_amp
+4654782102540670720,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4654816084323304192,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4654835806814404864,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4654901635762714368,Cepheid,LMC,Eclipsing Binary,RF,color_amp
@@ -1835,9 +1832,9 @@ source_id,class_name,field,predicted,model,feature_set
 4657236109472628352,Cepheid,LMC,RR Lyrae,RF,color_amp
 4657236349990704384,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4657236418710640640,Cepheid,LMC,RR Lyrae,RF,color_amp
-4657236968467169280,Cepheid,LMC,RR Lyrae,RF,color_amp
+4657236968467169280,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4657238480295345152,Cepheid,LMC,Eclipsing Binary,RF,color_amp
-4657240507520704512,Cepheid,LMC,RR Lyrae,RF,color_amp
+4657240507520704512,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4657240984202329088,Cepheid,LMC,RR Lyrae,RF,color_amp
 4657241194716546048,Cepheid,LMC,RR Lyrae,RF,color_amp
 4657241572673658368,Cepheid,LMC,RR Lyrae,RF,color_amp
@@ -1887,7 +1884,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658043941288360064,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658044349238600064,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658045208262570880,Long-Period Variable,LMC,Eclipsing Binary,RF,color_amp
-4658046002872198528,Cepheid,LMC,Eclipsing Binary,RF,color_amp
+4658046002872198528,Cepheid,LMC,RR Lyrae,RF,color_amp
 4658046170480693120,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658047445939238400,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4658047617779433728,Long-Period Variable,LMC,Cepheid,RF,color_amp
@@ -1907,7 +1904,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658053012261709568,Cepheid,LMC,RR Lyrae,RF,color_amp
 4658054691520447744,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4658056207716354944,Long-Period Variable,LMC,Cepheid,RF,color_amp
-4658056688752658688,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
+4658056688752658688,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658056894911529088,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4658058338020060800,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4658058612898126592,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
@@ -1921,16 +1918,15 @@ source_id,class_name,field,predicted,model,feature_set
 4658061013846897792,Cepheid,LMC,RR Lyrae,RF,color_amp
 4658061082566126080,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658061151152087808,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
-4658061670918138496,Long-Period Variable,LMC,Cepheid,RF,color_amp
+4658061670918138496,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658061803982773760,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658061877076577024,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658062697340382976,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658063045307485696,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658063182708329728,RR Lyrae,LMC,RR Lyrae,RF,color_amp
 4658063247099023232,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
-4658063315956638208,RR Lyrae,LMC,RR Lyrae,RF,color_amp
 4658064282259121152,Long-Period Variable,LMC,Cepheid,RF,color_amp
-4658064312248092160,Long-Period Variable,LMC,Eclipsing Binary,RF,color_amp
+4658064312248092160,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658064381117937152,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658064655845431040,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658064728935534464,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
@@ -1938,7 +1934,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658064797654914560,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658064866374315264,Cepheid,LMC,RR Lyrae,RF,color_amp
 4658065686637660160,Long-Period Variable,LMC,Cepheid,RF,color_amp
-4658065789857256576,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
+4658065789857256576,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658066202083559424,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658066408242181504,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658066584362469504,Cepheid,LMC,RR Lyrae,RF,color_amp
@@ -1947,11 +1943,11 @@ source_id,class_name,field,predicted,model,feature_set
 4658067164106634496,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658067443355814272,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658068061796020224,Long-Period Variable,LMC,Cepheid,RF,color_amp
-4658068302350450176,Long-Period Variable,LMC,Cepheid,RF,color_amp
+4658068302350450176,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658068439789243904,RR Lyrae,LMC,RR Lyrae,RF,color_amp
 4658070943680638848,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658071016733003904,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
-4658071051129972736,Long-Period Variable,LMC,Cepheid,RF,color_amp
+4658071051129972736,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658071944483036032,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658073005317752064,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658073348979181440,Cepheid,LMC,RR Lyrae,RF,color_amp
@@ -1963,7 +1959,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658076445610071040,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658076720489015168,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658076922420365056,Long-Period Variable,LMC,Eclipsing Binary,RF,color_amp
-4658077270244795008,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
+4658077270244795008,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658077407683722880,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4658077579482345728,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658077648201758848,Long-Period Variable,LMC,Cepheid,RF,color_amp
@@ -1982,14 +1978,14 @@ source_id,class_name,field,predicted,model,feature_set
 4658078782072845952,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658079808490770944,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658079984664776832,Long-Period Variable,LMC,Cepheid,RF,color_amp
-4658080190823148544,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
+4658080190823148544,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658080976722080256,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658081389038524928,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658081393415226624,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658082046249896448,Cepheid,LMC,RR Lyrae,RF,color_amp
 4658082080609616768,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658082763450092800,Cepheid,LMC,RR Lyrae,RF,color_amp
-4658082797822247040,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
+4658082797822247040,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658082969618126464,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658083386242050816,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658083691241104768,Long-Period Variable,LMC,Cepheid,RF,color_amp
@@ -2029,7 +2025,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658095102955551104,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658095270440247168,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658096477345145600,Long-Period Variable,LMC,Eclipsing Binary,RF,color_amp
-4658096477345200512,Long-Period Variable,LMC,Cepheid,RF,color_amp
+4658096477345200512,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658097542496743168,Long-Period Variable,LMC,Cepheid,RF,color_amp
 4658097989173144960,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658098397139023744,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
@@ -2063,7 +2059,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658113725937642624,Cepheid,LMC,RR Lyrae,RF,color_amp
 4658114481852027008,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 4658115272125933184,RR Lyrae,LMC,RR Lyrae,RF,color_amp
-4658119837629318912,Cepheid,LMC,Eclipsing Binary,RF,color_amp
+4658119837629318912,Cepheid,LMC,RR Lyrae,RF,color_amp
 4658119975026389504,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 4658568816284294272,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 4658590501593380352,Cepheid,LMC,RR Lyrae,RF,color_amp
@@ -2172,7 +2168,7 @@ source_id,class_name,field,predicted,model,feature_set
 4664612492399408128,Cepheid,LMC,RR Lyrae,RF,color_amp
 4664797687089142784,Cepheid,LMC,RR Lyrae,RF,color_amp
 4685627904833942400,Cepheid,SMC,Eclipsing Binary,RF,color_amp
-4685628969985539072,Cepheid,SMC,Eclipsing Binary,RF,color_amp
+4685628969985539072,Cepheid,SMC,RR Lyrae,RF,color_amp
 4685632062362368384,Cepheid,SMC,RR Lyrae,RF,color_amp
 4685635223457862400,Cepheid,SMC,RR Lyrae,RF,color_amp
 4685636151170775552,Cepheid,SMC,RR Lyrae,RF,color_amp
@@ -2197,7 +2193,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278266080940316288,Long-Period Variable,LMC,Eclipsing Binary,RF,color_amp
 5278272227035619584,Eclipsing Binary,LMC,Eclipsing Binary,RF,color_amp
 5278277728891391616,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
-5278278862762880384,Long-Period Variable,LMC,Cepheid,RF,color_amp
+5278278862762880384,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 5278279133360490240,Eclipsing Binary,LMC,Eclipsing Binary,RF,color_amp
 5278289686081508608,Long-Period Variable,LMC,Cepheid,RF,color_amp
 5278292675378663168,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
@@ -2218,7 +2214,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278379021402622464,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 5278379979172787584,Eclipsing Binary,LMC,RR Lyrae,RF,color_amp
 5278383831765801728,Long-Period Variable,LMC,Eclipsing Binary,RF,color_amp
-5278387714415882496,Long-Period Variable,LMC,Cepheid,RF,color_amp
+5278387714415882496,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 5278398877029048064,Eclipsing Binary,LMC,Eclipsing Binary,RF,color_amp
 5278399156208794880,Long-Period Variable,LMC,Eclipsing Binary,RF,color_amp
 5278419183635501312,Eclipsing Binary,LMC,Eclipsing Binary,RF,color_amp
@@ -2233,7 +2229,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278462717424415488,Eclipsing Binary,LMC,Eclipsing Binary,RF,color_amp
 5278469559312210304,Long-Period Variable,LMC,Cepheid,RF,color_amp
 5278473029645848064,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
-5278474777705295616,Eclipsing Binary,LMC,RR Lyrae,RF,color_amp
+5278474777705295616,Eclipsing Binary,LMC,Eclipsing Binary,RF,color_amp
 5278475194309509760,Long-Period Variable,LMC,Cepheid,RF,color_amp
 5278478110584056704,Eclipsing Binary,LMC,Eclipsing Binary,RF,color_amp
 5278486326864584448,Long-Period Variable,LMC,Cepheid,RF,color_amp
@@ -2258,14 +2254,14 @@ source_id,class_name,field,predicted,model,feature_set
 5278596930861613568,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
 5278598820647264768,Long-Period Variable,LMC,Long-Period Variable,RF,color_amp
 5278599782719975168,Long-Period Variable,LMC,Cepheid,RF,color_amp
-5278599950234945024,Eclipsing Binary,LMC,RR Lyrae,RF,color_amp
+5278599950234945024,Eclipsing Binary,LMC,Eclipsing Binary,RF,color_amp
 5278604249485951744,Long-Period Variable,LMC,Cepheid,RF,color_amp
 5278604313921720064,Long-Period Variable,LMC,Cepheid,RF,color_amp
 5278605275980442368,Eclipsing Binary,LMC,RR Lyrae,RF,color_amp
 5278607582381418368,Cepheid,LMC,Eclipsing Binary,RF,color_amp
 5278607719820358400,Long-Period Variable,LMC,Cepheid,RF,color_amp
 5278615893139538432,Eclipsing Binary,LMC,RR Lyrae,RF,color_amp
-5278621051399070592,Long-Period Variable,LMC,RR Lyrae,RF,color_amp
+5278621051399070592,Long-Period Variable,LMC,Cepheid,RF,color_amp
 5278627747249798272,Eclipsing Binary,LMC,Eclipsing Binary,RF,color_amp
 5278627781609055360,Eclipsing Binary,LMC,RR Lyrae,RF,color_amp
 5278648225664961536,Eclipsing Binary,LMC,RR Lyrae,RF,color_amp
@@ -2500,7 +2496,6 @@ source_id,class_name,field,predicted,model,feature_set
 4658063045307485696,Long-Period Variable,LMC,Long-Period Variable,HGB,full
 4658063182708329728,RR Lyrae,LMC,RR Lyrae,HGB,full
 4658063247099023232,Long-Period Variable,LMC,Long-Period Variable,HGB,full
-4658063315956638208,RR Lyrae,LMC,RR Lyrae,HGB,full
 4658064282259121152,Long-Period Variable,LMC,Eclipsing Binary,HGB,full
 4658064312248092160,Long-Period Variable,LMC,Long-Period Variable,HGB,full
 4658064381117937152,Long-Period Variable,LMC,Long-Period Variable,HGB,full
@@ -2642,7 +2637,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658615927801509760,Cepheid,LMC,Cepheid,HGB,full
 4658630049654361984,Cepheid,LMC,Cepheid,HGB,full
 4658658499520256640,Cepheid,LMC,Cepheid,HGB,full
-4658671792421430272,Cepheid,LMC,Eclipsing Binary,HGB,full
+4658671792421430272,Cepheid,LMC,Cepheid,HGB,full
 4658687155543930112,Cepheid,LMC,Cepheid,HGB,full
 4658699868639671296,Cepheid,LMC,Cepheid,HGB,full
 4658701449166128512,Cepheid,LMC,Cepheid,HGB,full
@@ -2673,7 +2668,7 @@ source_id,class_name,field,predicted,model,feature_set
 4659092463003562368,Cepheid,LMC,Cepheid,HGB,full
 4659106958510041472,Cepheid,LMC,Cepheid,HGB,full
 4659118198448989056,Cepheid,LMC,Cepheid,HGB,full
-4659124623720077952,Cepheid,LMC,RR Lyrae,HGB,full
+4659124623720077952,Cepheid,LMC,Cepheid,HGB,full
 4659157505990660608,Cepheid,LMC,Cepheid,HGB,full
 4659159430136095232,Cepheid,LMC,Cepheid,HGB,full
 4659172967872776704,Cepheid,LMC,Cepheid,HGB,full
@@ -2913,7 +2908,7 @@ source_id,class_name,field,predicted,model,feature_set
 4652117607948888832,Cepheid,LMC,Cepheid,HGB,intrinsic
 4652126404043513472,Cepheid,LMC,Cepheid,HGB,intrinsic
 4652129943057186048,Cepheid,LMC,Cepheid,HGB,intrinsic
-4652133821544778368,Cepheid,LMC,Cepheid,HGB,intrinsic
+4652133821544778368,Cepheid,LMC,RR Lyrae,HGB,intrinsic
 4652137227362988032,Cepheid,LMC,Cepheid,HGB,intrinsic
 4652143515197580800,Cepheid,LMC,Cepheid,HGB,intrinsic
 4654631744328130688,Cepheid,LMC,Eclipsing Binary,HGB,intrinsic
@@ -3010,7 +3005,7 @@ source_id,class_name,field,predicted,model,feature_set
 4657342899486146432,Cepheid,LMC,RR Lyrae,HGB,intrinsic
 4657354994114418048,Cepheid,LMC,Cepheid,HGB,intrinsic
 4657360040692826112,Cepheid,LMC,Cepheid,HGB,intrinsic
-4657378560582522880,Cepheid,LMC,Cepheid,HGB,intrinsic
+4657378560582522880,Cepheid,LMC,RR Lyrae,HGB,intrinsic
 4657403544430423040,Cepheid,LMC,Cepheid,HGB,intrinsic
 4657407598879467136,Cepheid,LMC,Cepheid,HGB,intrinsic
 4658033010722107648,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
@@ -3072,7 +3067,6 @@ source_id,class_name,field,predicted,model,feature_set
 4658063045307485696,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
 4658063182708329728,RR Lyrae,LMC,RR Lyrae,HGB,intrinsic
 4658063247099023232,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
-4658063315956638208,RR Lyrae,LMC,RR Lyrae,HGB,intrinsic
 4658064282259121152,Long-Period Variable,LMC,RR Lyrae,HGB,intrinsic
 4658064312248092160,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
 4658064381117937152,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
@@ -3123,7 +3117,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658078575914492672,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
 4658078644633904384,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
 4658078713318213376,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
-4658078782072845952,Long-Period Variable,LMC,Cepheid,HGB,intrinsic
+4658078782072845952,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
 4658079808490770944,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
 4658079984664776832,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
 4658080190823148544,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
@@ -3415,7 +3409,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278648225664961536,Eclipsing Binary,LMC,Eclipsing Binary,HGB,intrinsic
 5278663038999266816,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
 5278689839595153408,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
-5278690870389160448,Eclipsing Binary,LMC,Eclipsing Binary,HGB,intrinsic
+5278690870389160448,Eclipsing Binary,LMC,RR Lyrae,HGB,intrinsic
 5278691003525144704,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
 5278713204217306368,Long-Period Variable,LMC,Long-Period Variable,HGB,intrinsic
 5278726741954060928,Eclipsing Binary,LMC,Eclipsing Binary,HGB,intrinsic
@@ -3538,7 +3532,7 @@ source_id,class_name,field,predicted,model,feature_set
 4657229306241747456,Cepheid,LMC,Cepheid,HGB,period_free
 4657230371393317888,Cepheid,LMC,Cepheid,HGB,period_free
 4657231230386717824,Cepheid,LMC,Cepheid,HGB,period_free
-4657232158099450880,Cepheid,LMC,Eclipsing Binary,HGB,period_free
+4657232158099450880,Cepheid,LMC,Cepheid,HGB,period_free
 4657233876051620224,Cepheid,LMC,Cepheid,HGB,period_free
 4657233876051621504,Cepheid,LMC,Cepheid,HGB,period_free
 4657234082209044224,Cepheid,LMC,RR Lyrae,HGB,period_free
@@ -3558,7 +3552,7 @@ source_id,class_name,field,predicted,model,feature_set
 4657241194716546048,Cepheid,LMC,Cepheid,HGB,period_free
 4657241572673658368,Cepheid,LMC,Cepheid,HGB,period_free
 4657241881911209216,Cepheid,LMC,Cepheid,HGB,period_free
-4657242500386401152,Cepheid,LMC,Cepheid,HGB,period_free
+4657242500386401152,Cepheid,LMC,RR Lyrae,HGB,period_free
 4657242637825404288,Cepheid,LMC,Cepheid,HGB,period_free
 4657244630690764672,Cepheid,LMC,Cepheid,HGB,period_free
 4657244699410260480,Cepheid,LMC,Cepheid,HGB,period_free
@@ -3614,7 +3608,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658049576284232448,Long-Period Variable,LMC,Long-Period Variable,HGB,period_free
 4658049576284261504,Long-Period Variable,LMC,Cepheid,HGB,period_free
 4658049713723390208,Long-Period Variable,LMC,Long-Period Variable,HGB,period_free
-4658050675799433600,Long-Period Variable,LMC,Long-Period Variable,HGB,period_free
+4658050675799433600,Long-Period Variable,LMC,Cepheid,HGB,period_free
 4658050710159138432,Long-Period Variable,LMC,Long-Period Variable,HGB,period_free
 4658052428146246528,Long-Period Variable,LMC,Long-Period Variable,HGB,period_free
 4658052531225373568,Long-Period Variable,LMC,Long-Period Variable,HGB,period_free
@@ -3644,7 +3638,6 @@ source_id,class_name,field,predicted,model,feature_set
 4658063045307485696,Long-Period Variable,LMC,Cepheid,HGB,period_free
 4658063182708329728,RR Lyrae,LMC,RR Lyrae,HGB,period_free
 4658063247099023232,Long-Period Variable,LMC,Cepheid,HGB,period_free
-4658063315956638208,RR Lyrae,LMC,RR Lyrae,HGB,period_free
 4658064282259121152,Long-Period Variable,LMC,Long-Period Variable,HGB,period_free
 4658064312248092160,Long-Period Variable,LMC,Long-Period Variable,HGB,period_free
 4658064381117937152,Long-Period Variable,LMC,Long-Period Variable,HGB,period_free
@@ -3784,7 +3777,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658568816284294272,Cepheid,LMC,Cepheid,HGB,period_free
 4658590501593380352,Cepheid,LMC,Cepheid,HGB,period_free
 4658615927801509760,Cepheid,LMC,Cepheid,HGB,period_free
-4658630049654361984,Cepheid,LMC,Cepheid,HGB,period_free
+4658630049654361984,Cepheid,LMC,RR Lyrae,HGB,period_free
 4658658499520256640,Cepheid,LMC,Cepheid,HGB,period_free
 4658671792421430272,Cepheid,LMC,RR Lyrae,HGB,period_free
 4658687155543930112,Cepheid,LMC,Cepheid,HGB,period_free
@@ -3802,7 +3795,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658929254268139904,Cepheid,LMC,Eclipsing Binary,HGB,period_free
 4658933892833711104,Cepheid,LMC,Cepheid,HGB,period_free
 4658939218593746816,Cepheid,LMC,Cepheid,HGB,period_free
-4658950385509224960,Cepheid,LMC,Eclipsing Binary,HGB,period_free
+4658950385509224960,Cepheid,LMC,Cepheid,HGB,period_free
 4658956123585603072,Cepheid,LMC,Cepheid,HGB,period_free
 4658970245439073664,Cepheid,LMC,Cepheid,HGB,period_free
 4658980003576474496,Cepheid,LMC,Eclipsing Binary,HGB,period_free
@@ -3822,7 +3815,7 @@ source_id,class_name,field,predicted,model,feature_set
 4659159430136095232,Cepheid,LMC,Cepheid,HGB,period_free
 4659172967872776704,Cepheid,LMC,Cepheid,HGB,period_free
 4659178809028714880,Cepheid,LMC,Cepheid,HGB,period_free
-4659193583717355648,Cepheid,LMC,Cepheid,HGB,period_free
+4659193583717355648,Cepheid,LMC,RR Lyrae,HGB,period_free
 4659216432943094272,Cepheid,LMC,Cepheid,HGB,period_free
 4659233234857182080,Cepheid,LMC,Cepheid,HGB,period_free
 4659234368728481280,Cepheid,LMC,Cepheid,HGB,period_free
@@ -3831,7 +3824,7 @@ source_id,class_name,field,predicted,model,feature_set
 4659245776161261824,Cepheid,LMC,RR Lyrae,HGB,period_free
 4659246772593928960,Cepheid,LMC,Cepheid,HGB,period_free
 4659249246494771840,Cepheid,LMC,Cepheid,HGB,period_free
-4659250242927140352,Cepheid,LMC,Eclipsing Binary,HGB,period_free
+4659250242927140352,Cepheid,LMC,Cepheid,HGB,period_free
 4661243520111399680,Cepheid,LMC,Cepheid,HGB,period_free
 4661245547336779520,Cepheid,LMC,Cepheid,HGB,period_free
 4661245680417176320,Cepheid,LMC,Eclipsing Binary,HGB,period_free
@@ -3839,7 +3832,7 @@ source_id,class_name,field,predicted,model,feature_set
 4661251349774838400,Cepheid,LMC,Cepheid,HGB,period_free
 4661251899530933120,Cepheid,LMC,Cepheid,HGB,period_free
 4661251972608722304,Cepheid,LMC,Cepheid,HGB,period_free
-4661253278279686016,Cepheid,LMC,Eclipsing Binary,HGB,period_free
+4661253278279686016,Cepheid,LMC,Cepheid,HGB,period_free
 4661255541758561792,Cepheid,LMC,Cepheid,HGB,period_free
 4661256920413328512,Cepheid,LMC,Cepheid,HGB,period_free
 4661260558185992576,Cepheid,LMC,Cepheid,HGB,period_free
@@ -3853,7 +3846,7 @@ source_id,class_name,field,predicted,model,feature_set
 4661282548420822912,Cepheid,LMC,Cepheid,HGB,period_free
 4661283068181825536,Cepheid,LMC,Cepheid,HGB,period_free
 4661283407496066176,Cepheid,LMC,Cepheid,HGB,period_free
-4661286194918396928,Cepheid,LMC,Cepheid,HGB,period_free
+4661286194918396928,Cepheid,LMC,Long-Period Variable,HGB,period_free
 4661287638028101888,Cepheid,LMC,Cepheid,HGB,period_free
 4661290176344258176,Cepheid,LMC,Cepheid,HGB,period_free
 4661300935249883136,Cepheid,LMC,Cepheid,HGB,period_free
@@ -3957,7 +3950,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278503712890068608,Eclipsing Binary,LMC,Eclipsing Binary,HGB,period_free
 5278506285569087616,Eclipsing Binary,LMC,Eclipsing Binary,HGB,period_free
 5278511168953357440,Long-Period Variable,LMC,Long-Period Variable,HGB,period_free
-5278511473911324928,Eclipsing Binary,LMC,RR Lyrae,HGB,period_free
+5278511473911324928,Eclipsing Binary,LMC,Eclipsing Binary,HGB,period_free
 5278518655075063936,Eclipsing Binary,LMC,Eclipsing Binary,HGB,period_free
 5278519239190621440,Eclipsing Binary,LMC,Eclipsing Binary,HGB,period_free
 5278525634403075200,Cepheid,LMC,Cepheid,HGB,period_free
@@ -4010,7 +4003,7 @@ source_id,class_name,field,predicted,model,feature_set
 4650799151741878144,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4650861789531519360,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4650875537738360192,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
-4650914398604598656,Cepheid,LMC,RR Lyrae,HGB,color_amp
+4650914398604598656,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4650946147006457216,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4650947826317648512,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4650987103821594112,Cepheid,LMC,RR Lyrae,HGB,color_amp
@@ -4031,7 +4024,7 @@ source_id,class_name,field,predicted,model,feature_set
 4652035453793898624,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4652035556873103744,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4652036175348519552,Cepheid,LMC,Cepheid,HGB,color_amp
-4652037068701575040,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
+4652037068701575040,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4652047823304601984,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4652051465438517632,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4652053045986275584,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
@@ -4052,7 +4045,7 @@ source_id,class_name,field,predicted,model,feature_set
 4652085344149251840,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4652091284042106752,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4652100290638188416,Cepheid,LMC,RR Lyrae,HGB,color_amp
-4652108468257122816,Cepheid,LMC,RR Lyrae,HGB,color_amp
+4652108468257122816,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4652110392402847744,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4652117607948888832,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4652126404043513472,Cepheid,LMC,RR Lyrae,HGB,color_amp
@@ -4063,7 +4056,7 @@ source_id,class_name,field,predicted,model,feature_set
 4654631744328130688,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4654641571213147776,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4654642705084472704,Cepheid,LMC,RR Lyrae,HGB,color_amp
-4654649954991856896,Cepheid,LMC,RR Lyrae,HGB,color_amp
+4654649954991856896,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4654664420428880128,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4654669059006615168,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4654686891712971648,Cepheid,LMC,RR Lyrae,HGB,color_amp
@@ -4081,7 +4074,7 @@ source_id,class_name,field,predicted,model,feature_set
 4654782102540670720,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4654816084323304192,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4654835806814404864,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
-4654901635762714368,Cepheid,LMC,Cepheid,HGB,color_amp
+4654901635762714368,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4654903701654446336,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4654919056153161984,Cepheid,LMC,Cepheid,HGB,color_amp
 4654948781633572736,Cepheid,LMC,RR Lyrae,HGB,color_amp
@@ -4089,12 +4082,12 @@ source_id,class_name,field,predicted,model,feature_set
 4654965617907431040,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4654969741075933312,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4654973172749097088,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
-4654982076221933696,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
+4654982076221933696,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4655005406485710848,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4655016813919074560,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4655029355223065856,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4655039044680197120,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
-4655040659587956608,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
+4655040659587956608,Cepheid,LMC,Cepheid,HGB,color_amp
 4657223392057374336,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4657223460734206976,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4657223980483125376,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
@@ -4103,7 +4096,7 @@ source_id,class_name,field,predicted,model,feature_set
 4657225423592226432,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4657225732829760640,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4657228412888933248,Cepheid,LMC,Cepheid,HGB,color_amp
-4657228649055784704,Cepheid,LMC,RR Lyrae,HGB,color_amp
+4657228649055784704,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4657228992802370304,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4657229203122249600,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4657229271882027136,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
@@ -4124,7 +4117,7 @@ source_id,class_name,field,predicted,model,feature_set
 4657236349990704384,Cepheid,LMC,Cepheid,HGB,color_amp
 4657236418710640640,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4657236968467169280,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
-4657238480295345152,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
+4657238480295345152,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4657240507520704512,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4657240984202329088,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4657241194716546048,Cepheid,LMC,RR Lyrae,HGB,color_amp
@@ -4137,7 +4130,7 @@ source_id,class_name,field,predicted,model,feature_set
 4657244768129702016,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4657245695843649408,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4657246206935420672,Cepheid,LMC,RR Lyrae,HGB,color_amp
-4657247478248863616,Cepheid,LMC,Cepheid,HGB,color_amp
+4657247478248863616,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4657250162611853696,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4657250673725165824,Cepheid,LMC,Cepheid,HGB,color_amp
 4657255728850504960,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
@@ -4159,11 +4152,11 @@ source_id,class_name,field,predicted,model,feature_set
 4657407598879467136,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4658033010722107648,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658033392846541312,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
-4658033805163531520,Long-Period Variable,LMC,Cepheid,HGB,color_amp
+4658033805163531520,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
 4658034488150649344,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658034767235597312,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658035007754394368,Long-Period Variable,LMC,Cepheid,HGB,color_amp
-4658035351309430272,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
+4658035351309430272,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658036760100416128,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658038752964754432,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658039951351869696,RR Lyrae,LMC,RR Lyrae,HGB,color_amp
@@ -4176,7 +4169,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658044349238600064,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658045208262570880,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658046002872198528,Cepheid,LMC,RR Lyrae,HGB,color_amp
-4658046170480693120,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
+4658046170480693120,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658047445939238400,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658047617779433728,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658048442372327552,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
@@ -4187,15 +4180,15 @@ source_id,class_name,field,predicted,model,feature_set
 4658049576284261504,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658049713723390208,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658050675799433600,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
-4658050710159138432,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
+4658050710159138432,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658052428146246528,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
 4658052531225373568,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658052565546103040,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658052943542064896,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658053012261709568,Cepheid,LMC,RR Lyrae,HGB,color_amp
-4658054691520447744,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
+4658054691520447744,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658056207716354944,Long-Period Variable,LMC,Cepheid,HGB,color_amp
-4658056688752658688,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
+4658056688752658688,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658056894911529088,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4658058338020060800,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4658058612898126592,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
@@ -4206,7 +4199,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658059574973254784,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658060330887520512,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658060773328106112,Long-Period Variable,LMC,Cepheid,HGB,color_amp
-4658061013846897792,Cepheid,LMC,Cepheid,HGB,color_amp
+4658061013846897792,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658061082566126080,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658061151152087808,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658061670918138496,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
@@ -4215,17 +4208,16 @@ source_id,class_name,field,predicted,model,feature_set
 4658062697340382976,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658063045307485696,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658063182708329728,RR Lyrae,LMC,RR Lyrae,HGB,color_amp
-4658063247099023232,Long-Period Variable,LMC,Cepheid,HGB,color_amp
-4658063315956638208,RR Lyrae,LMC,RR Lyrae,HGB,color_amp
+4658063247099023232,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658064282259121152,Long-Period Variable,LMC,Cepheid,HGB,color_amp
-4658064312248092160,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
-4658064381117937152,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
+4658064312248092160,Long-Period Variable,LMC,Cepheid,HGB,color_amp
+4658064381117937152,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658064655845431040,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658064728935534464,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658064797654900480,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658064797654914560,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658064866374315264,Cepheid,LMC,RR Lyrae,HGB,color_amp
-4658065686637660160,Long-Period Variable,LMC,Cepheid,HGB,color_amp
+4658065686637660160,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
 4658065789857256576,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658066202083559424,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658066408242181504,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
@@ -4238,12 +4230,12 @@ source_id,class_name,field,predicted,model,feature_set
 4658068302350450176,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658068439789243904,RR Lyrae,LMC,RR Lyrae,HGB,color_amp
 4658070943680638848,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
-4658071016733003904,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
+4658071016733003904,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658071051129972736,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
-4658071944483036032,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
+4658071944483036032,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658073005317752064,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658073348979181440,Cepheid,LMC,RR Lyrae,HGB,color_amp
-4658073520690189696,Long-Period Variable,LMC,Cepheid,HGB,color_amp
+4658073520690189696,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658073937309077632,RR Lyrae,LMC,RR Lyrae,HGB,color_amp
 4658074521465017344,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658075479164030336,Long-Period Variable,LMC,Cepheid,HGB,color_amp
@@ -4251,7 +4243,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658076445610071040,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658076720489015168,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658076922420365056,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
-4658077270244795008,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
+4658077270244795008,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658077407683722880,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4658077579482345728,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658077648201758848,Long-Period Variable,LMC,Cepheid,HGB,color_amp
@@ -4270,7 +4262,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658078782072845952,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658079808490770944,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658079984664776832,Long-Period Variable,LMC,Cepheid,HGB,color_amp
-4658080190823148544,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
+4658080190823148544,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658080976722080256,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658081389038524928,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658081393415226624,Long-Period Variable,LMC,Cepheid,HGB,color_amp
@@ -4280,17 +4272,17 @@ source_id,class_name,field,predicted,model,feature_set
 4658082797822247040,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658082969618126464,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658083386242050816,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
-4658083691241104768,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
+4658083691241104768,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658083862940134528,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658084240897369728,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658084691950392704,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
-4658084726310212608,Cepheid,LMC,RR Lyrae,HGB,color_amp
+4658084726310212608,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4658085104267364224,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658085443487817600,Long-Period Variable,LMC,Cepheid,HGB,color_amp
-4658085615389187200,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
+4658085615389187200,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658086203781063936,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658086787896289920,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
-4658087131493684864,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
+4658087131493684864,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658087406372113920,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658087715609530240,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658088329800762368,RR Lyrae,LMC,RR Lyrae,HGB,color_amp
@@ -4302,18 +4294,18 @@ source_id,class_name,field,predicted,model,feature_set
 4658089910254194176,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
 4658090704905831296,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
 4658090876704474880,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
-4658091392063956352,Long-Period Variable,LMC,Cepheid,HGB,color_amp
+4658091392063956352,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
 4658091701337989760,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658092006290937600,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658092182374818432,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
-4658092422892748928,Long-Period Variable,LMC,Cepheid,HGB,color_amp
-4658093071350749312,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
-4658093969080584960,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
+4658092422892748928,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
+4658093071350749312,Long-Period Variable,LMC,Cepheid,HGB,color_amp
+4658093969080584960,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658094136541007232,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658094828077783936,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658094931157069824,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
 4658094999876429440,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
-4658095102955472512,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
+4658095102955472512,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658095102955551104,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658095270440247168,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658096477345145600,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
@@ -4329,7 +4321,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658102352859257984,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658102559017763072,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658103040057307008,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
-4658103241826716416,Long-Period Variable,LMC,Cepheid,HGB,color_amp
+4658103241826716416,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658103418014252800,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658104375704487936,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 4658104483165765760,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
@@ -4348,17 +4340,17 @@ source_id,class_name,field,predicted,model,feature_set
 4658112523347154304,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 4658113038743002368,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658113725848054784,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
-4658113725937642624,Cepheid,LMC,RR Lyrae,HGB,color_amp
+4658113725937642624,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4658114481852027008,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 4658115272125933184,RR Lyrae,LMC,RR Lyrae,HGB,color_amp
-4658119837629318912,Cepheid,LMC,Cepheid,HGB,color_amp
+4658119837629318912,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4658119975026389504,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
-4658568816284294272,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
+4658568816284294272,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658590501593380352,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658615927801509760,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658630049654361984,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658658499520256640,Cepheid,LMC,RR Lyrae,HGB,color_amp
-4658671792421430272,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
+4658671792421430272,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658687155543930112,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4658699868639671296,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658701449166128512,Cepheid,LMC,RR Lyrae,HGB,color_amp
@@ -4368,7 +4360,7 @@ source_id,class_name,field,predicted,model,feature_set
 4658809785452021632,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658838613272736512,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4658875653073061888,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
-4658921592046784128,Cepheid,LMC,Cepheid,HGB,color_amp
+4658921592046784128,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658926574208571008,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658927364482531712,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4658929254268139904,Cepheid,LMC,RR Lyrae,HGB,color_amp
@@ -4388,7 +4380,7 @@ source_id,class_name,field,predicted,model,feature_set
 4659038793089878528,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4659092463003562368,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4659106958510041472,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
-4659118198448989056,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
+4659118198448989056,Cepheid,LMC,Cepheid,HGB,color_amp
 4659124623720077952,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4659157505990660608,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4659159430136095232,Cepheid,LMC,RR Lyrae,HGB,color_amp
@@ -4448,7 +4440,7 @@ source_id,class_name,field,predicted,model,feature_set
 4663704845569323776,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4663729481502388224,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4663737620443578624,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
-4663764081749782912,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
+4663764081749782912,Cepheid,LMC,Cepheid,HGB,color_amp
 4663788374085763968,Cepheid,LMC,RR Lyrae,HGB,color_amp
 4663830808364045824,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
 4663907190052693376,Cepheid,LMC,Eclipsing Binary,HGB,color_amp
@@ -4482,17 +4474,17 @@ source_id,class_name,field,predicted,model,feature_set
 5278235741290370432,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278261408009614592,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
 5278264186856912768,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
-5278266080940316288,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
+5278266080940316288,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 5278272227035619584,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
 5278277728891391616,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
-5278278862762880384,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
+5278278862762880384,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278279133360490240,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
 5278289686081508608,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278292675378663168,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 5278302158666471296,Cepheid,LMC,RR Lyrae,HGB,color_amp
 5278312290486977920,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
 5278315004907151744,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
-5278325037950657024,Long-Period Variable,LMC,Cepheid,HGB,color_amp
+5278325037950657024,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
 5278349197149047936,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278352220806018432,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
 5278353865775601152,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
@@ -4514,7 +4506,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278432004118558976,Cepheid,LMC,RR Lyrae,HGB,color_amp
 5278434752897612672,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278436432238659712,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
-5278438807346238720,Long-Period Variable,LMC,Cepheid,HGB,color_amp
+5278438807346238720,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
 5278448565512424192,Eclipsing Binary,LMC,RR Lyrae,HGB,color_amp
 5278451451729893248,Cepheid,LMC,RR Lyrae,HGB,color_amp
 5278453852609692544,Eclipsing Binary,LMC,RR Lyrae,HGB,color_amp
@@ -4527,7 +4519,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278486326864584448,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 5278499658445161600,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 5278503712890068608,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
-5278506285569087616,Eclipsing Binary,LMC,Cepheid,HGB,color_amp
+5278506285569087616,Eclipsing Binary,LMC,RR Lyrae,HGB,color_amp
 5278511168953357440,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278511473911324928,Eclipsing Binary,LMC,RR Lyrae,HGB,color_amp
 5278518655075063936,Eclipsing Binary,LMC,RR Lyrae,HGB,color_amp
@@ -4535,7 +4527,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278525634403075200,Cepheid,LMC,RR Lyrae,HGB,color_amp
 5278531986654660608,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
 5278547624636470400,Cepheid,LMC,RR Lyrae,HGB,color_amp
-5278557588960646912,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
+5278557588960646912,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 5278559684904517632,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 5278567656363842816,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278570886173334656,Eclipsing Binary,LMC,RR Lyrae,HGB,color_amp
@@ -4544,7 +4536,7 @@ source_id,class_name,field,predicted,model,feature_set
 5278587546352718464,Eclipsing Binary,LMC,RR Lyrae,HGB,color_amp
 5278590505590816384,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278596930861613568,Long-Period Variable,LMC,Cepheid,HGB,color_amp
-5278598820647264768,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
+5278598820647264768,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 5278599782719975168,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278599950234945024,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
 5278604249485951744,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
@@ -4561,14 +4553,14 @@ source_id,class_name,field,predicted,model,feature_set
 5278689839595153408,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
 5278690870389160448,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
 5278691003525144704,Long-Period Variable,LMC,RR Lyrae,HGB,color_amp
-5278713204217306368,Long-Period Variable,LMC,Eclipsing Binary,HGB,color_amp
+5278713204217306368,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278726741954060928,Eclipsing Binary,LMC,RR Lyrae,HGB,color_amp
 5278730933842696704,Eclipsing Binary,LMC,RR Lyrae,HGB,color_amp
 5278734266736676736,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278736427098749696,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
 5278748143774761728,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
 5278758318553501056,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
-5278759246266402816,Long-Period Variable,LMC,Long-Period Variable,HGB,color_amp
+5278759246266402816,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278759521144305152,Long-Period Variable,LMC,Cepheid,HGB,color_amp
 5278764121045845504,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp
 5278764365858959872,Eclipsing Binary,LMC,Eclipsing Binary,HGB,color_amp

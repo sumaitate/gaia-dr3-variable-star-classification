@@ -1,2 +1,2 @@
 model,comparison,n_stars,accuracy_delta,ci_lo,ci_hi,stars_helped,stars_hurt
-HGB,native_NaN_minus_explicit_flags,2000,0.0,0.0,0.0,0,0
+HGB,native_NaN_minus_explicit_flags,1978,0.0,0.0,0.0,0,0

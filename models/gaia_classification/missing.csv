@@ -1,129 +1,129 @@
 feature,class_name,missing,class_size,class_missing_pct,missing_from_class_pct
-log_period,RR Lyrae,22,500,4.3999999999999995,100.0
-log_period,Cepheid,0,500,0.0,0.0
-log_period,Eclipsing Binary,0,500,0.0,0.0
-log_period,Long-Period Variable,0,500,0.0,0.0
-power,RR Lyrae,22,500,4.3999999999999995,100.0
-power,Cepheid,0,500,0.0,0.0
-power,Eclipsing Binary,0,500,0.0,0.0
-power,Long-Period Variable,0,500,0.0,0.0
-half_power,RR Lyrae,22,500,4.3999999999999995,100.0
-half_power,Cepheid,0,500,0.0,0.0
-half_power,Eclipsing Binary,0,500,0.0,0.0
-half_power,Long-Period Variable,0,500,0.0,0.0
-double_power,RR Lyrae,22,500,4.3999999999999995,100.0
-double_power,Cepheid,0,500,0.0,0.0
-double_power,Eclipsing Binary,0,500,0.0,0.0
-double_power,Long-Period Variable,0,500,0.0,0.0
-half_power_ratio,RR Lyrae,22,500,4.3999999999999995,100.0
-half_power_ratio,Cepheid,0,500,0.0,0.0
-half_power_ratio,Eclipsing Binary,0,500,0.0,0.0
-half_power_ratio,Long-Period Variable,0,500,0.0,0.0
-double_power_ratio,RR Lyrae,22,500,4.3999999999999995,100.0
-double_power_ratio,Cepheid,0,500,0.0,0.0
-double_power_ratio,Eclipsing Binary,0,500,0.0,0.0
-double_power_ratio,Long-Period Variable,0,500,0.0,0.0
-fourier_amp,RR Lyrae,22,500,4.3999999999999995,100.0
-fourier_amp,Cepheid,0,500,0.0,0.0
-fourier_amp,Eclipsing Binary,0,500,0.0,0.0
-fourier_amp,Long-Period Variable,0,500,0.0,0.0
-fourier_ratio,RR Lyrae,22,500,4.3999999999999995,100.0
-fourier_ratio,Cepheid,0,500,0.0,0.0
-fourier_ratio,Eclipsing Binary,0,500,0.0,0.0
-fourier_ratio,Long-Period Variable,0,500,0.0,0.0
-magnitude_std,RR Lyrae,22,500,4.3999999999999995,100.0
-magnitude_std,Cepheid,0,500,0.0,0.0
-magnitude_std,Eclipsing Binary,0,500,0.0,0.0
-magnitude_std,Long-Period Variable,0,500,0.0,0.0
-magnitude_skew,RR Lyrae,22,500,4.3999999999999995,100.0
-magnitude_skew,Cepheid,0,500,0.0,0.0
-magnitude_skew,Eclipsing Binary,0,500,0.0,0.0
-magnitude_skew,Long-Period Variable,0,500,0.0,0.0
-magnitude_kurt,RR Lyrae,22,500,4.3999999999999995,100.0
-magnitude_kurt,Cepheid,0,500,0.0,0.0
-magnitude_kurt,Eclipsing Binary,0,500,0.0,0.0
-magnitude_kurt,Long-Period Variable,0,500,0.0,0.0
-magnitude_mad,RR Lyrae,22,500,4.3999999999999995,100.0
-magnitude_mad,Cepheid,0,500,0.0,0.0
-magnitude_mad,Eclipsing Binary,0,500,0.0,0.0
-magnitude_mad,Long-Period Variable,0,500,0.0,0.0
-amplitude,RR Lyrae,22,500,4.3999999999999995,100.0
-amplitude,Cepheid,0,500,0.0,0.0
-amplitude,Eclipsing Binary,0,500,0.0,0.0
-amplitude,Long-Period Variable,0,500,0.0,0.0
-beyond_1sigma_fraction,RR Lyrae,22,500,4.3999999999999995,100.0
-beyond_1sigma_fraction,Cepheid,0,500,0.0,0.0
-beyond_1sigma_fraction,Eclipsing Binary,0,500,0.0,0.0
-beyond_1sigma_fraction,Long-Period Variable,0,500,0.0,0.0
-von_neumann_eta,RR Lyrae,22,500,4.3999999999999995,100.0
-von_neumann_eta,Cepheid,0,500,0.0,0.0
-von_neumann_eta,Eclipsing Binary,0,500,0.0,0.0
-von_neumann_eta,Long-Period Variable,0,500,0.0,0.0
-stetson_j,RR Lyrae,22,500,4.3999999999999995,100.0
-stetson_j,Cepheid,0,500,0.0,0.0
-stetson_j,Eclipsing Binary,0,500,0.0,0.0
-stetson_j,Long-Period Variable,0,500,0.0,0.0
-sf_short,RR Lyrae,22,500,4.3999999999999995,100.0
-sf_short,Cepheid,0,500,0.0,0.0
-sf_short,Eclipsing Binary,0,500,0.0,0.0
-sf_short,Long-Period Variable,0,500,0.0,0.0
-sf_long,RR Lyrae,22,500,4.3999999999999995,100.0
-sf_long,Cepheid,0,500,0.0,0.0
-sf_long,Eclipsing Binary,0,500,0.0,0.0
-sf_long,Long-Period Variable,0,500,0.0,0.0
-sf_ratio,RR Lyrae,52,500,10.4,100.0
+log_period,RR Lyrae,0,478,0.0,
+log_period,Cepheid,0,500,0.0,
+log_period,Eclipsing Binary,0,500,0.0,
+log_period,Long-Period Variable,0,500,0.0,
+power,RR Lyrae,0,478,0.0,
+power,Cepheid,0,500,0.0,
+power,Eclipsing Binary,0,500,0.0,
+power,Long-Period Variable,0,500,0.0,
+half_power,RR Lyrae,0,478,0.0,
+half_power,Cepheid,0,500,0.0,
+half_power,Eclipsing Binary,0,500,0.0,
+half_power,Long-Period Variable,0,500,0.0,
+double_power,RR Lyrae,0,478,0.0,
+double_power,Cepheid,0,500,0.0,
+double_power,Eclipsing Binary,0,500,0.0,
+double_power,Long-Period Variable,0,500,0.0,
+half_power_ratio,RR Lyrae,0,478,0.0,
+half_power_ratio,Cepheid,0,500,0.0,
+half_power_ratio,Eclipsing Binary,0,500,0.0,
+half_power_ratio,Long-Period Variable,0,500,0.0,
+double_power_ratio,RR Lyrae,0,478,0.0,
+double_power_ratio,Cepheid,0,500,0.0,
+double_power_ratio,Eclipsing Binary,0,500,0.0,
+double_power_ratio,Long-Period Variable,0,500,0.0,
+fourier_amp,RR Lyrae,0,478,0.0,
+fourier_amp,Cepheid,0,500,0.0,
+fourier_amp,Eclipsing Binary,0,500,0.0,
+fourier_amp,Long-Period Variable,0,500,0.0,
+fourier_ratio,RR Lyrae,0,478,0.0,
+fourier_ratio,Cepheid,0,500,0.0,
+fourier_ratio,Eclipsing Binary,0,500,0.0,
+fourier_ratio,Long-Period Variable,0,500,0.0,
+magnitude_std,RR Lyrae,0,478,0.0,
+magnitude_std,Cepheid,0,500,0.0,
+magnitude_std,Eclipsing Binary,0,500,0.0,
+magnitude_std,Long-Period Variable,0,500,0.0,
+magnitude_skew,RR Lyrae,0,478,0.0,
+magnitude_skew,Cepheid,0,500,0.0,
+magnitude_skew,Eclipsing Binary,0,500,0.0,
+magnitude_skew,Long-Period Variable,0,500,0.0,
+magnitude_kurt,RR Lyrae,0,478,0.0,
+magnitude_kurt,Cepheid,0,500,0.0,
+magnitude_kurt,Eclipsing Binary,0,500,0.0,
+magnitude_kurt,Long-Period Variable,0,500,0.0,
+magnitude_mad,RR Lyrae,0,478,0.0,
+magnitude_mad,Cepheid,0,500,0.0,
+magnitude_mad,Eclipsing Binary,0,500,0.0,
+magnitude_mad,Long-Period Variable,0,500,0.0,
+amplitude,RR Lyrae,0,478,0.0,
+amplitude,Cepheid,0,500,0.0,
+amplitude,Eclipsing Binary,0,500,0.0,
+amplitude,Long-Period Variable,0,500,0.0,
+beyond_1sigma_fraction,RR Lyrae,0,478,0.0,
+beyond_1sigma_fraction,Cepheid,0,500,0.0,
+beyond_1sigma_fraction,Eclipsing Binary,0,500,0.0,
+beyond_1sigma_fraction,Long-Period Variable,0,500,0.0,
+von_neumann_eta,RR Lyrae,0,478,0.0,
+von_neumann_eta,Cepheid,0,500,0.0,
+von_neumann_eta,Eclipsing Binary,0,500,0.0,
+von_neumann_eta,Long-Period Variable,0,500,0.0,
+stetson_j,RR Lyrae,0,478,0.0,
+stetson_j,Cepheid,0,500,0.0,
+stetson_j,Eclipsing Binary,0,500,0.0,
+stetson_j,Long-Period Variable,0,500,0.0,
+sf_short,RR Lyrae,0,478,0.0,
+sf_short,Cepheid,0,500,0.0,
+sf_short,Eclipsing Binary,0,500,0.0,
+sf_short,Long-Period Variable,0,500,0.0,
+sf_long,RR Lyrae,0,478,0.0,
+sf_long,Cepheid,0,500,0.0,
+sf_long,Eclipsing Binary,0,500,0.0,
+sf_long,Long-Period Variable,0,500,0.0,
+sf_ratio,RR Lyrae,30,478,6.2761506276150625,100.0
 sf_ratio,Cepheid,0,500,0.0,0.0
 sf_ratio,Eclipsing Binary,0,500,0.0,0.0
 sf_ratio,Long-Period Variable,0,500,0.0,0.0
-max_visit_slope,RR Lyrae,22,500,4.3999999999999995,100.0
-max_visit_slope,Cepheid,0,500,0.0,0.0
-max_visit_slope,Eclipsing Binary,0,500,0.0,0.0
-max_visit_slope,Long-Period Variable,0,500,0.0,0.0
-bp_rp_color,RR Lyrae,37,500,7.3999999999999995,90.2439024390244
+max_visit_slope,RR Lyrae,0,478,0.0,
+max_visit_slope,Cepheid,0,500,0.0,
+max_visit_slope,Eclipsing Binary,0,500,0.0,
+max_visit_slope,Long-Period Variable,0,500,0.0,
+bp_rp_color,RR Lyrae,35,478,7.322175732217573,89.74358974358974
 bp_rp_color,Cepheid,0,500,0.0,0.0
-bp_rp_color,Eclipsing Binary,4,500,0.8,9.75609756097561
+bp_rp_color,Eclipsing Binary,4,500,0.8,10.256410256410257
 bp_rp_color,Long-Period Variable,0,500,0.0,0.0
-magnitude_mean,RR Lyrae,22,500,4.3999999999999995,100.0
-magnitude_mean,Cepheid,0,500,0.0,0.0
-magnitude_mean,Eclipsing Binary,0,500,0.0,0.0
-magnitude_mean,Long-Period Variable,0,500,0.0,0.0
-median_error,RR Lyrae,22,500,4.3999999999999995,100.0
-median_error,Cepheid,0,500,0.0,0.0
-median_error,Eclipsing Binary,0,500,0.0,0.0
-median_error,Long-Period Variable,0,500,0.0,0.0
-amplitude_ratio,RR Lyrae,22,500,4.3999999999999995,100.0
-amplitude_ratio,Cepheid,0,500,0.0,0.0
-amplitude_ratio,Eclipsing Binary,0,500,0.0,0.0
-amplitude_ratio,Long-Period Variable,0,500,0.0,0.0
-n_epochs,RR Lyrae,0,500,0.0,
+magnitude_mean,RR Lyrae,0,478,0.0,
+magnitude_mean,Cepheid,0,500,0.0,
+magnitude_mean,Eclipsing Binary,0,500,0.0,
+magnitude_mean,Long-Period Variable,0,500,0.0,
+median_error,RR Lyrae,0,478,0.0,
+median_error,Cepheid,0,500,0.0,
+median_error,Eclipsing Binary,0,500,0.0,
+median_error,Long-Period Variable,0,500,0.0,
+amplitude_ratio,RR Lyrae,0,478,0.0,
+amplitude_ratio,Cepheid,0,500,0.0,
+amplitude_ratio,Eclipsing Binary,0,500,0.0,
+amplitude_ratio,Long-Period Variable,0,500,0.0,
+n_epochs,RR Lyrae,0,478,0.0,
 n_epochs,Cepheid,0,500,0.0,
 n_epochs,Eclipsing Binary,0,500,0.0,
 n_epochs,Long-Period Variable,0,500,0.0,
-time_span,RR Lyrae,0,500,0.0,
+time_span,RR Lyrae,0,478,0.0,
 time_span,Cepheid,0,500,0.0,
 time_span,Eclipsing Binary,0,500,0.0,
 time_span,Long-Period Variable,0,500,0.0,
-median_gap,RR Lyrae,0,500,0.0,
+median_gap,RR Lyrae,0,478,0.0,
 median_gap,Cepheid,0,500,0.0,
 median_gap,Eclipsing Binary,0,500,0.0,
 median_gap,Long-Period Variable,0,500,0.0,
-short_gap_fraction,RR Lyrae,0,500,0.0,
+short_gap_fraction,RR Lyrae,0,478,0.0,
 short_gap_fraction,Cepheid,0,500,0.0,
 short_gap_fraction,Eclipsing Binary,0,500,0.0,
 short_gap_fraction,Long-Period Variable,0,500,0.0,
-n_visits,RR Lyrae,0,500,0.0,
+n_visits,RR Lyrae,0,478,0.0,
 n_visits,Cepheid,0,500,0.0,
 n_visits,Eclipsing Binary,0,500,0.0,
 n_visits,Long-Period Variable,0,500,0.0,
-epochs_per_visit,RR Lyrae,0,500,0.0,
+epochs_per_visit,RR Lyrae,0,478,0.0,
 epochs_per_visit,Cepheid,0,500,0.0,
 epochs_per_visit,Eclipsing Binary,0,500,0.0,
 epochs_per_visit,Long-Period Variable,0,500,0.0,
-median_visit_gap,RR Lyrae,0,500,0.0,
+median_visit_gap,RR Lyrae,0,478,0.0,
 median_visit_gap,Cepheid,0,500,0.0,
 median_visit_gap,Eclipsing Binary,0,500,0.0,
 median_visit_gap,Long-Period Variable,0,500,0.0,
-visit_gap_cv,RR Lyrae,0,500,0.0,
+visit_gap_cv,RR Lyrae,0,478,0.0,
 visit_gap_cv,Cepheid,0,500,0.0,
 visit_gap_cv,Eclipsing Binary,0,500,0.0,
 visit_gap_cv,Long-Period Variable,0,500,0.0,
