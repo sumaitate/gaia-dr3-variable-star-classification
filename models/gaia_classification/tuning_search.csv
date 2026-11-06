@@ -1,0 +1,9 @@
+params,mean_test_score,std_test_score,rank_test_score
+"{""classifier__min_samples_leaf"": 20, ""classifier__max_iter"": 150, ""classifier__learning_rate"": 0.05, ""classifier__l2_regularization"": 0.0}",0.9742928813737237,0.008475452055653362,1
+"{""classifier__min_samples_leaf"": 20, ""classifier__max_iter"": 350, ""classifier__learning_rate"": 0.05, ""classifier__l2_regularization"": 5.0}",0.9742603571304539,0.00870408196527329,2
+"{""classifier__min_samples_leaf"": 20, ""classifier__max_iter"": 250, ""classifier__learning_rate"": 0.03, ""classifier__l2_regularization"": 1.0}",0.973634792687702,0.007805124067998034,3
+"{""classifier__min_samples_leaf"": 10, ""classifier__max_iter"": 250, ""classifier__learning_rate"": 0.03, ""classifier__l2_regularization"": 1.0}",0.9736338852931841,0.011190506997521865,4
+"{""classifier__min_samples_leaf"": 20, ""classifier__max_iter"": 150, ""classifier__learning_rate"": 0.03, ""classifier__l2_regularization"": 1.0}",0.9736029931504415,0.009693224348485898,5
+"{""classifier__min_samples_leaf"": 10, ""classifier__max_iter"": 150, ""classifier__learning_rate"": 0.03, ""classifier__l2_regularization"": 0.0}",0.9730547682141889,0.009120633604343193,6
+"{""classifier__min_samples_leaf"": 20, ""classifier__max_iter"": 250, ""classifier__learning_rate"": 0.1, ""classifier__l2_regularization"": 0.0}",0.9730285224862243,0.009171325930870028,7
+"{""classifier__min_samples_leaf"": 10, ""classifier__max_iter"": 150, ""classifier__learning_rate"": 0.1, ""classifier__l2_regularization"": 0.0}",0.9730170053161433,0.01237906734384387,8

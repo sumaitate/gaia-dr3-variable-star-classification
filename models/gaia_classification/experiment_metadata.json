@@ -1,0 +1,51 @@
+{
+  "model_family": "Histogram Gradient Boosting",
+  "model_file": "/Users/Sumaitat/Documents/Coding/gaia-varstars/models/model.joblib",
+  "feature_columns": [
+    "magnitude_mean",
+    "magnitude_std",
+    "magnitude_skew",
+    "magnitude_kurt",
+    "amplitude",
+    "log_period",
+    "power",
+    "fourier_amp",
+    "fourier_ratio",
+    "bp_rp_color",
+    "magnitude_mad",
+    "median_error",
+    "amplitude_ratio",
+    "half_power",
+    "double_power"
+  ],
+  "class_names": [
+    "RR Lyrae",
+    "Cepheid",
+    "Eclipsing Binary",
+    "Long-Period Variable"
+  ],
+  "seed": 42,
+  "folds": 5,
+  "test_fraction": 0.2,
+  "source_file": "/Users/Sumaitat/Documents/Coding/gaia-varstars/data/raw/gaia_sources.csv",
+  "feature_file": "/Users/Sumaitat/Documents/Coding/gaia-varstars/data/processed/gaia_features_fe.csv",
+  "sampling_file": "/Users/Sumaitat/Documents/Coding/gaia-varstars/data/processed/gaia_features_fe_sampling.csv",
+  "validation_file": "/Users/Sumaitat/Documents/Coding/gaia-varstars/data/processed/gaia_period_validation_fe.csv",
+  "training_stars": 1600,
+  "test_stars": 400,
+  "tuning_enabled": true,
+  "tuned_parameters": {
+    "classifier__min_samples_leaf": 20,
+    "classifier__max_iter": 150,
+    "classifier__learning_rate": 0.05,
+    "classifier__l2_regularization": 0.0
+  },
+  "primary_test_macro_f1": 0.9723829736690756,
+  "period_recovery": {
+    "min_period_days": 0.1,
+    "max_period_days": 1000.0,
+    "min_points": 20,
+    "relative_tolerance": 0.1,
+    "max_phase_drift_cycles": 0.25
+  }
+}

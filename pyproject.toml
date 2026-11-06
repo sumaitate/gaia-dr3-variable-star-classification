@@ -9,11 +9,8 @@ description = "Machine-learning classification of variable stars using features 
 authors = [
   { name = "Sumaitat Ebshar" },
 ]
-license = { file = "LICENSE" }
-readme = "README.md"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: BSD License"
 ]
 dependencies = [
     "astroquery>=0.4.11",

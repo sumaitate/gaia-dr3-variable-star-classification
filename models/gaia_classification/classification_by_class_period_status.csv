@@ -1,0 +1,65 @@
+class_name,period_status,feature_set,n,correct,recall,ci95_low,ci95_high,small_cell
+RR Lyrae,recovered,full,71,65,0.9154929577464789,0.8276396178569572,0.9606934922892889,False
+RR Lyrae,recovered,no_period,71,47,0.6619718309859155,0.5461661814275548,0.7611501157481005,False
+RR Lyrae,recovered,color_amplitude,71,33,0.4647887323943662,0.3535844784547986,0.5796076308548415,False
+RR Lyrae,recovered,with_sampling,71,66,0.9295774647887324,0.8455098688621009,0.969546397560289,False
+RR Lyrae,mismatched,full,25,24,0.96,0.8045593626380625,0.9929037664980127,False
+RR Lyrae,mismatched,no_period,25,24,0.96,0.8045593626380625,0.9929037664980127,False
+RR Lyrae,mismatched,color_amplitude,25,14,0.56,0.3706733186979878,0.7333436111893266,False
+RR Lyrae,mismatched,with_sampling,25,24,0.96,0.8045593626380625,0.9929037664980127,False
+RR Lyrae,no_estimate,full,0,0,,,,True
+RR Lyrae,no_estimate,no_period,0,0,,,,True
+RR Lyrae,no_estimate,color_amplitude,0,0,,,,True
+RR Lyrae,no_estimate,with_sampling,0,0,,,,True
+RR Lyrae,ineligible,full,4,4,1.0,0.5101091635454027,1.0,True
+RR Lyrae,ineligible,no_period,4,4,1.0,0.5101091635454027,1.0,True
+RR Lyrae,ineligible,color_amplitude,4,2,0.5,0.15003898915214947,0.8499610108478506,True
+RR Lyrae,ineligible,with_sampling,4,4,1.0,0.5101091635454027,1.0,True
+Cepheid,recovered,full,100,99,0.99,0.9455138038212946,0.9982325679358593,False
+Cepheid,recovered,no_period,100,67,0.67,0.5730534379509052,0.7543687726587197,False
+Cepheid,recovered,color_amplitude,100,44,0.44,0.346720266301608,0.5377189534832302,False
+Cepheid,recovered,with_sampling,100,98,0.98,0.929988209271456,0.9944980324498376,False
+Cepheid,mismatched,full,0,0,,,,True
+Cepheid,mismatched,no_period,0,0,,,,True
+Cepheid,mismatched,color_amplitude,0,0,,,,True
+Cepheid,mismatched,with_sampling,0,0,,,,True
+Cepheid,no_estimate,full,0,0,,,,True
+Cepheid,no_estimate,no_period,0,0,,,,True
+Cepheid,no_estimate,color_amplitude,0,0,,,,True
+Cepheid,no_estimate,with_sampling,0,0,,,,True
+Cepheid,ineligible,full,0,0,,,,True
+Cepheid,ineligible,no_period,0,0,,,,True
+Cepheid,ineligible,color_amplitude,0,0,,,,True
+Cepheid,ineligible,with_sampling,0,0,,,,True
+Eclipsing Binary,recovered,full,1,1,1.0,0.20654931437723745,1.0,True
+Eclipsing Binary,recovered,no_period,1,1,1.0,0.20654931437723745,1.0,True
+Eclipsing Binary,recovered,color_amplitude,1,1,1.0,0.20654931437723745,1.0,True
+Eclipsing Binary,recovered,with_sampling,1,1,1.0,0.20654931437723745,1.0,True
+Eclipsing Binary,mismatched,full,99,96,0.9696969696969697,0.9146631979389799,0.9896413604215459,False
+Eclipsing Binary,mismatched,no_period,99,95,0.9595959595959596,0.9006797874974577,0.9841773610058524,False
+Eclipsing Binary,mismatched,color_amplitude,99,62,0.6262626262626263,0.5279244532290264,0.7151681699861687,False
+Eclipsing Binary,mismatched,with_sampling,99,97,0.9797979797979798,0.9293096883284993,0.9944422798892423,False
+Eclipsing Binary,no_estimate,full,0,0,,,,True
+Eclipsing Binary,no_estimate,no_period,0,0,,,,True
+Eclipsing Binary,no_estimate,color_amplitude,0,0,,,,True
+Eclipsing Binary,no_estimate,with_sampling,0,0,,,,True
+Eclipsing Binary,ineligible,full,0,0,,,,True
+Eclipsing Binary,ineligible,no_period,0,0,,,,True
+Eclipsing Binary,ineligible,color_amplitude,0,0,,,,True
+Eclipsing Binary,ineligible,with_sampling,0,0,,,,True
+Long-Period Variable,recovered,full,52,52,1.0,0.9312077638761376,1.0,False
+Long-Period Variable,recovered,no_period,52,50,0.9615384615384616,0.8701881084254424,0.9893882889986847,False
+Long-Period Variable,recovered,color_amplitude,52,46,0.8846153846153846,0.7702833565509788,0.946030307969127,False
+Long-Period Variable,recovered,with_sampling,52,52,1.0,0.9312077638761376,1.0,False
+Long-Period Variable,mismatched,full,27,27,1.0,0.8754449702581328,0.9999999999999998,False
+Long-Period Variable,mismatched,no_period,27,27,1.0,0.8754449702581328,0.9999999999999998,False
+Long-Period Variable,mismatched,color_amplitude,27,24,0.8888888888888888,0.7194219918172017,0.9614796517169016,False
+Long-Period Variable,mismatched,with_sampling,27,27,1.0,0.8754449702581328,0.9999999999999998,False
+Long-Period Variable,no_estimate,full,0,0,,,,True
+Long-Period Variable,no_estimate,no_period,0,0,,,,True
+Long-Period Variable,no_estimate,color_amplitude,0,0,,,,True
+Long-Period Variable,no_estimate,with_sampling,0,0,,,,True
+Long-Period Variable,ineligible,full,21,21,1.0,0.8453609810751531,1.0,False
+Long-Period Variable,ineligible,no_period,21,21,1.0,0.8453609810751531,1.0,False
+Long-Period Variable,ineligible,color_amplitude,21,15,0.7142857142857143,0.5004361928391441,0.8618613704787788,False
+Long-Period Variable,ineligible,with_sampling,21,21,1.0,0.8453609810751531,1.0,False

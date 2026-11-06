@@ -1,0 +1,91 @@
+{
+  "model": "HGB",
+  "sources": 2000,
+  "folds": 5,
+  "repeats": 5,
+  "classes": [
+    "RR Lyrae",
+    "Cepheid",
+    "Eclipsing Binary",
+    "Long-Period Variable"
+  ],
+  "features": [
+    "log_period",
+    "power",
+    "half_power",
+    "double_power",
+    "half_power_ratio",
+    "double_power_ratio",
+    "fourier_amp",
+    "fourier_ratio",
+    "magnitude_std",
+    "magnitude_skew",
+    "magnitude_kurt",
+    "magnitude_mad",
+    "amplitude",
+    "beyond_1sigma_fraction",
+    "von_neumann_eta",
+    "stetson_j",
+    "sf_short",
+    "sf_long",
+    "sf_ratio",
+    "max_visit_slope",
+    "bp_rp_color",
+    "magnitude_mean",
+    "median_error",
+    "amplitude_ratio"
+  ],
+  "groups": {
+    "period": [
+      "log_period",
+      "power",
+      "half_power",
+      "double_power",
+      "half_power_ratio",
+      "double_power_ratio",
+      "fourier_amp",
+      "fourier_ratio"
+    ],
+    "shape": [
+      "magnitude_std",
+      "magnitude_skew",
+      "magnitude_kurt",
+      "magnitude_mad",
+      "amplitude",
+      "beyond_1sigma_fraction"
+    ],
+    "timescale": [
+      "von_neumann_eta",
+      "stetson_j",
+      "sf_short",
+      "sf_long",
+      "sf_ratio",
+      "max_visit_slope"
+    ],
+    "color": [
+      "bp_rp_color"
+    ],
+    "brightness_noise": [
+      "magnitude_mean",
+      "median_error",
+      "amplitude_ratio"
+    ],
+    "sampling": [
+      "n_epochs",
+      "time_span",
+      "median_gap",
+      "short_gap_fraction",
+      "n_visits",
+      "epochs_per_visit",
+      "median_visit_gap",
+      "visit_gap_cv"
+    ]
+  },
+  "sky_group": "Gaia feature-engineering sky cells",
+  "period_reference": "Gaia DR3 published period",
+  "recovery_rule": "phase drift <= 0.25 cycles",
+  "field_cones": {
+    "LMC": 8.0,
+    "SMC": 5.0
+  }
+}

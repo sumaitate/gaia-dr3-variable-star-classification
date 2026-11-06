@@ -1,0 +1,9 @@
+class_name,region,ecliptic_stars,polar_stars,matched_strata,matched_pairs,polar_minus_ecliptic
+RR Lyrae,all,243,37,9,37,0.06599375717022775
+RR Lyrae,outside,243,24,8,23,0.038795986622073605
+Cepheid,all,65,330,11,42,0.010506424792139094
+Cepheid,outside,65,16,5,13,0.0
+Eclipsing Binary,all,256,244,10,145,0.026722495894909687
+Eclipsing Binary,outside,256,199,9,108,0.014792317570095349
+Long-Period Variable,all,169,174,10,94,-0.11172258366392547
+Long-Period Variable,outside,169,24,8,24,-0.3446092873176207

@@ -1,0 +1,93 @@
+feature,class_name,missing_n,class_n,pct_missing_within_class,pct_of_missing_from_class
+log_period,RR Lyrae,22,500,4.3999999999999995,100.0
+log_period,Cepheid,0,500,0.0,0.0
+log_period,Eclipsing Binary,0,500,0.0,0.0
+log_period,Long-Period Variable,0,500,0.0,0.0
+power,RR Lyrae,22,500,4.3999999999999995,100.0
+power,Cepheid,0,500,0.0,0.0
+power,Eclipsing Binary,0,500,0.0,0.0
+power,Long-Period Variable,0,500,0.0,0.0
+half_power,RR Lyrae,66,500,13.200000000000001,21.568627450980394
+half_power,Cepheid,0,500,0.0,0.0
+half_power,Eclipsing Binary,239,500,47.8,78.10457516339869
+half_power,Long-Period Variable,1,500,0.2,0.32679738562091504
+double_power,RR Lyrae,23,500,4.6,14.197530864197532
+double_power,Cepheid,0,500,0.0,0.0
+double_power,Eclipsing Binary,0,500,0.0,0.0
+double_power,Long-Period Variable,139,500,27.800000000000004,85.80246913580247
+fourier_amp,RR Lyrae,22,500,4.3999999999999995,100.0
+fourier_amp,Cepheid,0,500,0.0,0.0
+fourier_amp,Eclipsing Binary,0,500,0.0,0.0
+fourier_amp,Long-Period Variable,0,500,0.0,0.0
+fourier_ratio,RR Lyrae,22,500,4.3999999999999995,100.0
+fourier_ratio,Cepheid,0,500,0.0,0.0
+fourier_ratio,Eclipsing Binary,0,500,0.0,0.0
+fourier_ratio,Long-Period Variable,0,500,0.0,0.0
+magnitude_std,RR Lyrae,0,500,0.0,
+magnitude_std,Cepheid,0,500,0.0,
+magnitude_std,Eclipsing Binary,0,500,0.0,
+magnitude_std,Long-Period Variable,0,500,0.0,
+magnitude_skew,RR Lyrae,0,500,0.0,
+magnitude_skew,Cepheid,0,500,0.0,
+magnitude_skew,Eclipsing Binary,0,500,0.0,
+magnitude_skew,Long-Period Variable,0,500,0.0,
+magnitude_kurt,RR Lyrae,0,500,0.0,
+magnitude_kurt,Cepheid,0,500,0.0,
+magnitude_kurt,Eclipsing Binary,0,500,0.0,
+magnitude_kurt,Long-Period Variable,0,500,0.0,
+magnitude_mad,RR Lyrae,0,500,0.0,
+magnitude_mad,Cepheid,0,500,0.0,
+magnitude_mad,Eclipsing Binary,0,500,0.0,
+magnitude_mad,Long-Period Variable,0,500,0.0,
+amplitude,RR Lyrae,0,500,0.0,
+amplitude,Cepheid,0,500,0.0,
+amplitude,Eclipsing Binary,0,500,0.0,
+amplitude,Long-Period Variable,0,500,0.0,
+log10_sf_half_time,RR Lyrae,30,500,6.0,19.10828025477707
+log10_sf_half_time,Cepheid,9,500,1.7999999999999998,5.732484076433121
+log10_sf_half_time,Eclipsing Binary,115,500,23.0,73.2484076433121
+log10_sf_half_time,Long-Period Variable,3,500,0.6,1.910828025477707
+von_neumann_eta,RR Lyrae,0,500,0.0,
+von_neumann_eta,Cepheid,0,500,0.0,
+von_neumann_eta,Eclipsing Binary,0,500,0.0,
+von_neumann_eta,Long-Period Variable,0,500,0.0,
+bp_rp_color,RR Lyrae,37,500,7.3999999999999995,90.2439024390244
+bp_rp_color,Cepheid,0,500,0.0,0.0
+bp_rp_color,Eclipsing Binary,4,500,0.8,9.75609756097561
+bp_rp_color,Long-Period Variable,0,500,0.0,0.0
+magnitude_mean,RR Lyrae,0,500,0.0,
+magnitude_mean,Cepheid,0,500,0.0,
+magnitude_mean,Eclipsing Binary,0,500,0.0,
+magnitude_mean,Long-Period Variable,0,500,0.0,
+median_error,RR Lyrae,0,500,0.0,
+median_error,Cepheid,0,500,0.0,
+median_error,Eclipsing Binary,0,500,0.0,
+median_error,Long-Period Variable,0,500,0.0,
+amplitude_ratio,RR Lyrae,0,500,0.0,
+amplitude_ratio,Cepheid,0,500,0.0,
+amplitude_ratio,Eclipsing Binary,0,500,0.0,
+amplitude_ratio,Long-Period Variable,0,500,0.0,
+n_epochs,RR Lyrae,0,500,0.0,
+n_epochs,Cepheid,0,500,0.0,
+n_epochs,Eclipsing Binary,0,500,0.0,
+n_epochs,Long-Period Variable,0,500,0.0,
+time_span,RR Lyrae,0,500,0.0,
+time_span,Cepheid,0,500,0.0,
+time_span,Eclipsing Binary,0,500,0.0,
+time_span,Long-Period Variable,0,500,0.0,
+median_gap,RR Lyrae,0,500,0.0,
+median_gap,Cepheid,0,500,0.0,
+median_gap,Eclipsing Binary,0,500,0.0,
+median_gap,Long-Period Variable,0,500,0.0,
+short_gap_fraction,RR Lyrae,0,500,0.0,
+short_gap_fraction,Cepheid,0,500,0.0,
+short_gap_fraction,Eclipsing Binary,0,500,0.0,
+short_gap_fraction,Long-Period Variable,0,500,0.0,
+long_gap_fraction,RR Lyrae,0,500,0.0,
+long_gap_fraction,Cepheid,0,500,0.0,
+long_gap_fraction,Eclipsing Binary,0,500,0.0,
+long_gap_fraction,Long-Period Variable,0,500,0.0,
+observing_groups,RR Lyrae,0,500,0.0,
+observing_groups,Cepheid,0,500,0.0,
+observing_groups,Eclipsing Binary,0,500,0.0,
+observing_groups,Long-Period Variable,0,500,0.0,

@@ -1,0 +1,73 @@
+model,class_name,period_status,reference,compared,n_stars,recall_delta,ci_lo,ci_hi,small_cell
+RF,RR Lyrae,recovered,full,period_free,392,-0.040306122448979596,-0.06020408163265306,-0.023469387755102038,False
+RF,RR Lyrae,recovered,full,color_amp,392,-0.4535714285714286,-0.49771683673469386,-0.4061224489795918,False
+RF,RR Lyrae,recovered,full,oracle,392,0.030612244897959183,0.013775510204081633,0.04975765306122442,False
+RF,RR Lyrae,recovered,oracle,period_free,392,-0.07091836734693878,-0.09693877551020408,-0.046670918367347006,False
+RF,RR Lyrae,mismatched,full,period_free,86,0.01627906976744186,0.0,0.044186046511627906,False
+RF,RR Lyrae,mismatched,full,color_amp,86,-0.5744186046511627,-0.6767441860465117,-0.4627906976744186,False
+RF,RR Lyrae,mismatched,full,oracle,86,0.027906976744186046,0.0,0.06744186046511627,False
+RF,RR Lyrae,mismatched,oracle,period_free,86,-0.011627906976744186,-0.03488372093023256,0.0,False
+RF,RR Lyrae,ineligible,full,period_free,22,0.0,0.0,0.0,False
+RF,RR Lyrae,ineligible,full,color_amp,22,-0.03636363636363636,-0.09090909090909091,0.0,False
+RF,Cepheid,recovered,full,period_free,495,-0.052121212121212124,-0.07313131313131313,-0.0314949494949496,False
+RF,Cepheid,recovered,full,color_amp,495,-0.5878787878787879,-0.6294949494949496,-0.5436262626262627,False
+RF,Cepheid,recovered,full,oracle,495,0.0064646464646464655,-0.001212121212121212,0.015353535353535355,False
+RF,Cepheid,recovered,oracle,period_free,495,-0.05858585858585859,-0.0804040404040404,-0.03736363636363642,False
+RF,Cepheid,mismatched,full,period_free,5,0.0,0.0,0.0,True
+RF,Cepheid,mismatched,full,color_amp,5,-0.6,-1.0,-0.2,True
+RF,Cepheid,mismatched,full,oracle,5,0.0,0.0,0.0,True
+RF,Cepheid,mismatched,oracle,period_free,5,0.0,0.0,0.0,True
+RF,Eclipsing Binary,recovered,full,period_free,12,0.049999999999999996,0.0,0.15,False
+RF,Eclipsing Binary,recovered,full,color_amp,12,-0.25,-0.5833333333333334,0.08333333333333333,False
+RF,Eclipsing Binary,recovered,full,oracle,12,-0.35000000000000003,-0.6,-0.13333333333333333,False
+RF,Eclipsing Binary,recovered,oracle,period_free,12,0.39999999999999997,0.17458333333333337,0.65,False
+RF,Eclipsing Binary,mismatched,full,period_free,488,-0.024999999999999998,-0.03934426229508197,-0.011885245901639344,False
+RF,Eclipsing Binary,mismatched,full,color_amp,488,-0.37459016393442623,-0.4166086065573771,-0.3313422131147542,False
+RF,Eclipsing Binary,mismatched,full,oracle,488,0.021311475409836068,0.009016393442622951,0.03401639344262295,False
+RF,Eclipsing Binary,mismatched,oracle,period_free,488,-0.04631147540983606,-0.0651639344262295,-0.029702868852459072,False
+RF,Long-Period Variable,recovered,full,period_free,269,-0.0550185873605948,-0.08104089219330855,-0.03197026022304832,False
+RF,Long-Period Variable,recovered,full,color_amp,269,-0.1724907063197026,-0.2178438661710037,-0.12972118959107815,False
+RF,Long-Period Variable,recovered,full,oracle,269,0.0,0.0,0.0,False
+RF,Long-Period Variable,recovered,oracle,period_free,269,-0.0550185873605948,-0.08104089219330855,-0.03197026022304832,False
+RF,Long-Period Variable,mismatched,full,period_free,132,-0.03181818181818182,-0.06666666666666667,-0.003030303030303028,False
+RF,Long-Period Variable,mismatched,full,color_amp,132,-0.16818181818181818,-0.23484848484848486,-0.10454545454545455,False
+RF,Long-Period Variable,mismatched,full,oracle,132,0.007575757575757576,0.0,0.022727272727272728,False
+RF,Long-Period Variable,mismatched,oracle,period_free,132,-0.0393939393939394,-0.07272727272727272,-0.013636363636363636,False
+RF,Long-Period Variable,ineligible,full,period_free,99,-0.022222222222222223,-0.05358585858585859,0.0,False
+RF,Long-Period Variable,ineligible,full,color_amp,99,-0.21616161616161614,-0.298989898989899,-0.13631313131313158,False
+HGB,RR Lyrae,recovered,full,period_free,392,-0.03877551020408163,-0.06173469387755102,-0.01836734693877551,False
+HGB,RR Lyrae,recovered,full,color_amp,392,-0.4877551020408163,-0.5311224489795918,-0.4423469387755101,False
+HGB,RR Lyrae,recovered,full,oracle,392,0.02857142857142857,0.014795918367346938,0.044387755102040814,False
+HGB,RR Lyrae,recovered,oracle,period_free,392,-0.0673469387755102,-0.09183673469387756,-0.044387755102040814,False
+HGB,RR Lyrae,mismatched,full,period_free,86,0.0,0.0,0.0,False
+HGB,RR Lyrae,mismatched,full,color_amp,86,-0.572093023255814,-0.6744186046511628,-0.4604651162790697,False
+HGB,RR Lyrae,mismatched,full,oracle,86,-0.0046511627906976735,-0.011627906976744184,0.0,False
+HGB,RR Lyrae,mismatched,oracle,period_free,86,0.0046511627906976735,0.0,0.011627906976744184,False
+HGB,RR Lyrae,ineligible,full,period_free,22,0.0,0.0,0.0,False
+HGB,RR Lyrae,ineligible,full,color_amp,22,0.0,0.0,0.0,False
+HGB,Cepheid,recovered,full,period_free,495,-0.0501010101010101,-0.07111111111111111,-0.029494949494949498,False
+HGB,Cepheid,recovered,full,color_amp,495,-0.6076767676767677,-0.6472727272727272,-0.5680808080808081,False
+HGB,Cepheid,recovered,full,oracle,495,0.00404040404040404,-0.00040404040404040453,0.008888888888888889,False
+HGB,Cepheid,recovered,oracle,period_free,495,-0.05414141414141415,-0.07495959595959596,-0.03372727272727278,False
+HGB,Cepheid,mismatched,full,period_free,5,-0.04,-0.12000000000000002,0.0,True
+HGB,Cepheid,mismatched,full,color_amp,5,-0.64,-0.96,-0.31999999999999995,True
+HGB,Cepheid,mismatched,full,oracle,5,-0.04,-0.12000000000000002,0.0,True
+HGB,Cepheid,mismatched,oracle,period_free,5,0.0,0.0,0.0,True
+HGB,Eclipsing Binary,recovered,full,period_free,12,0.016666666666666666,0.0,0.05000000000000001,False
+HGB,Eclipsing Binary,recovered,full,color_amp,12,-0.18333333333333335,-0.5,0.08333333333333333,False
+HGB,Eclipsing Binary,recovered,full,oracle,12,-0.25,-0.48333333333333334,-0.04999999999999999,False
+HGB,Eclipsing Binary,recovered,oracle,period_free,12,0.26666666666666666,0.06666666666666667,0.49208333333333104,False
+HGB,Eclipsing Binary,mismatched,full,period_free,488,-0.022950819672131147,-0.0389344262295082,-0.00860655737704918,False
+HGB,Eclipsing Binary,mismatched,full,color_amp,488,-0.4163934426229508,-0.45737704918032784,-0.3756045081967213,False
+HGB,Eclipsing Binary,mismatched,full,oracle,488,0.019262295081967213,0.00860655737704918,0.03155737704918033,False
+HGB,Eclipsing Binary,mismatched,oracle,period_free,488,-0.04221311475409836,-0.05983606557377049,-0.02663934426229508,False
+HGB,Long-Period Variable,recovered,full,period_free,269,-0.026765799256505574,-0.047583643122676586,-0.007434944237918215,False
+HGB,Long-Period Variable,recovered,full,color_amp,269,-0.179182156133829,-0.22750929368029738,-0.13457249070631971,False
+HGB,Long-Period Variable,recovered,full,oracle,269,-0.0029739776951672866,-0.015613382899628254,0.008178438661710037,False
+HGB,Long-Period Variable,recovered,oracle,period_free,269,-0.02379182156133829,-0.04684014869888476,-0.0014869888475836429,False
+HGB,Long-Period Variable,mismatched,full,period_free,132,-0.04242424242424242,-0.08787878787878788,-0.00606060606060606,False
+HGB,Long-Period Variable,mismatched,full,color_amp,132,-0.23333333333333334,-0.30606060606060603,-0.16666666666666666,False
+HGB,Long-Period Variable,mismatched,full,oracle,132,0.010606060606060605,0.0,0.028787878787878786,False
+HGB,Long-Period Variable,mismatched,oracle,period_free,132,-0.05303030303030303,-0.09848484848484848,-0.022727272727272728,False
+HGB,Long-Period Variable,ineligible,full,period_free,99,-0.0020202020202020198,-0.03232323232323232,0.02828282828282828,False
+HGB,Long-Period Variable,ineligible,full,color_amp,99,-0.26262626262626265,-0.35353535353535354,-0.176717171717172,False

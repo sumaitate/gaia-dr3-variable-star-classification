@@ -1,0 +1,3 @@
+model,n_stars,accuracy_delta,ci_lo,ci_hi,stars_helped,stars_hurt
+RF,2000,-0.0112,-0.0166,-0.0058,20,53
+HGB,2000,-0.0062,-0.0103,-0.0021475000000000135,17,37
